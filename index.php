@@ -26,7 +26,6 @@
 		</section> <!-- End of Forma -->
 	</section> <!-- End of Contenedor -->
 
-
 	<section class="Columnas">
 		<div class="Col1">
 		<h2>ADIESTRAMIENTO</h2>
@@ -65,9 +64,8 @@
 			<img src="img/clientes.jpg" alt="mis clientes">
 			<article>
 				<p>
-					El adiestramiento que realizo posibilita que los perros aprendan con alegría 
-					y confianza, sin temores, sin forzar etapas, garantizando un adiestramiento 
-					eficaz y perdurable en el tiempo.
+					Gracias a todos por permitirme ser parte de la educación y el adiestramiento 
+					de sus queridos perros
 				</p>
 			</article>
 				<div class="Ver-mas">
@@ -101,6 +99,7 @@
 		</section> <!-- End of Redes-perfil -->
 	</section> <!-- End of Quien-soy -->
 
+	<?php include("includes/generados.php"); ?>
 
 	<?php include("includes/razas.php"); ?>
 

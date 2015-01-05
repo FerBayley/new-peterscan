@@ -64,7 +64,7 @@ span
 	width 100%
 	.Col1
 		display inline-block
-		height auto
+		height 370px
 		margin 0 .5em 0 .5em
 		vertical-align top
 		width 30%
@@ -83,15 +83,17 @@ span
 			-o-transition all 0.5s ease
 			transition all 0.5s ease
 		a:hover
-			opacity 0.8
 			-webkit-transform translate(0px, 10px)
 			-moz-transform translate(0px, 10px)
 			-o-transform translate(0px, 10px)
 			-ms-transform translate(0px, 10px)
 			transform translate(0px, 10px)
+		.Ver-mas
+			margin 2em 0 0 0
+			
 	.Col2
 		display inline-block
-		height auto
+		height 370px
 		margin 0 .5em 0 .5em
 		vertical-align top
 		width 30%
@@ -101,7 +103,6 @@ span
 			-o-transition all 0.5s ease
 			transition all 0.5s ease
 		a:hover
-			opacity 0.8
 			-webkit-transform translate(0px, 10px)
 			-moz-transform translate(0px, 10px)
 			-o-transform translate(0px, 10px)
@@ -116,9 +117,11 @@ span
 			font-size .9em
 			line-height 23px
 			margin 1em 1em 1em 1em
+		.Ver-mas
+			margin -.4em 0 0 0
 	.Col3
 		display inline-block
-		height auto
+		height 370px
 		margin 0 .5em 0 .5em
 		vertical-align top
 		width 30%
@@ -128,7 +131,6 @@ span
 			-o-transition all 0.5s ease
 			transition all 0.5s ease
 		a:hover
-			opacity 0.8
 			-webkit-transform translate(0px, 10px)
 			-moz-transform translate(0px, 10px)
 			-o-transform translate(0px, 10px)
@@ -143,6 +145,8 @@ span
 			font-size .9em
 			line-height 23px
 			margin .7em 1em 1em 1em
+		.Ver-mas
+			margin 3.5em 0 0 0
 a
 	color #FFFFFF
 	text-decoration none			
@@ -261,8 +265,39 @@ a
 		a
 			color #11d062
 			text-decoration none
+		
 
 
+.Contenido-contactos
+	height auto
+	margin 0 auto
+	margin-top 2em
+	max-width 1200px
+	text-align center
+	width 100%
+	h2
+		color #808080
+		font-size 1.3em
+		font-style italic
+		margin 1em 0 2.5em 0
+	ul li
+		display inline-block
+		list-style none
+		margin 0 2em 0 2em
+		padding 0 0 1em 0
+		vertical-align top	
+	a
+		-webkit-transition all 0.5s ease
+		-moz-transition all 0.5s ease
+		-o-transition all 0.5s ease
+		transition all 0.5s ease
+	a:hover
+		opacity 0.8
+		-webkit-transition all 0.5s ease
+		-moz-transition all 0.5s ease
+		-o-transition all 0.5s ease
+		transition all 0.5s ease
+		
 .Contenedor
 	background-image url('../img/centro.jpg')
 	background-repeat no-repeat
@@ -279,7 +314,7 @@ a
 	ul li
 		display inline-block
 		font-size .9em
-		padding 0 1em 0 .5em
+		padding 0 0 0 .5em
 		vertical-align middle
 		a
 			color #FFFFFF
@@ -317,9 +352,9 @@ a
 	width 100%
 	.Col1-cont1
 		display inline-block
-		padding 2em
+		margin 1.5em 2em 0 0
 		vertical-align top
-		width 20%
+		width auto
 	.Col2-cont2
 		display inline-block
 		margin 2em 0 0 0
@@ -351,15 +386,40 @@ a
 		p
 			margin .5em 0 1em 0
 	.Cartel-modificado
-		margin 0 0 5em 0
-		
-		
-			
+		margin 0 0 5em 0			
 
 .Forma
 	margin 184px 0 0 0
 	text-align center
 			
+.Generadores
+	margin 0 auto
+	margin-top 3em
+	max-width 1100px
+	text-align center
+	width 100%
+	h2
+		color #808080
+		font-style italic
+		margin 2.5em 0 1.5em 0
+	h3
+		color #808080
+		font-size .9em
+		font-style italic
+		margin 1em 0 0 0
+	ul li
+		display inline-block
+		list-style none
+		vertical-align top
+		width 30%
+		img
+			border-radius 100%
+			height auto
+			overflow hidden
+			max-width 150px
+			width 100%
+	img:hover
+		opacity 0.7
 
 .Logo
 	margin 200px 0 0 20px
@@ -384,6 +444,42 @@ a
 	max-width 1200px
 	padding-bottom .5em
 	width 100%
+	
+
+.Todas-lasRazas
+	height auto
+	margin 0 auto
+	margin-top 4em 
+	max-width 1100px
+	overflow hidden
+	width 100%
+	a
+		background green
+		border-radius 3px
+		color #FFFFFF
+		font-size 0.9em
+		padding 0 .5em 0 .5em
+	a:hover
+		opacity 0.9
+	h2
+		margin 0 0 1em 0
+	h3
+		color green
+		margin 0 0 .3em 0
+	img
+		height auto
+		border-radius 100%
+		-webkit-border-radius 100%
+		-moz-border-radius 100%
+		-o-border-radius 100%
+		-ms-border-radius 100%
+		float left
+		margin 0 1em 0 1em
+	p
+		font-size 0.9em
+		text-align justify
+		line-height 26px
+		margin 0 0 .5em 0
 		
 .Quien-soy
 	height auto
@@ -440,3 +536,18 @@ a
 			text-decoration none
 		a:hover
 			opacity 0.6
+			
+.Contenedor-delasRazas
+	height auto
+	margin 0 0 5em 0
+	
+
+.Seccion
+	background #d3dbd7
+	color green
+	font-size 0.9em
+	margin 0 auto
+	margin-top .1em
+	max-width 1195px
+	padding .3em 0 .3em .3em	
+	width auto

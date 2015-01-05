@@ -2,10 +2,10 @@
 	<div class="Contenedor-razas">
 		<h2>RAZAS</h2>
 
-		<a href="mailto:info@peterscan.com.ar">
+		<a href="razas.php">
 			<div class="Contacto">
 				<ul>
-					<li>CONSULTAME POR UNA RAZA EN PARTICULAR</li>
+					<li>CONOCE MAS SOBRE TODAS ESTAS RAZAS</li>
 				</ul>
 			</div> <!-- End of Contacto -->
 		</a>

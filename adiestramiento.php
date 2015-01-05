@@ -1,14 +1,18 @@
 <?php include("includes/head.php"); ?>
 
 <body>
+	<?php include("includes/menu.php"); ?>
 
-		<?php include("includes/menu.php"); ?>
+	<?php include("includes/logo.php"); ?>
 
-		<?php include("includes/logo.php"); ?>
+
+	<section class="Seccion">
+		SECCION: Adiestramiento
+	</section> <!-- End of Seccion -->
 
 		<section class="Contenido">
 			<div class="Col1-cont1">
-				<img src="img/perfil-interna.jpg" alt="Pedro Monges">
+				<img src="img/banners/adiestramiento.jpg" alt="Pedro Monges">
 			</div> <!-- End of Col1 -->
 
 			<div class="Col2-cont2">

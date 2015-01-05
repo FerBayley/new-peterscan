@@ -2,15 +2,19 @@
 
 <body>
 
-		<?php include("includes/menu.php"); ?>
+	<?php include("includes/menu.php"); ?>
 
 		<section class="Logo-interno">
 			<h1><img src="img/logo-interno.jpg" alt="Peterscan"></h1>
 		</section> <!-- End of Logo-interno -->
 
+		<section class="Seccion">
+			SECCION: Cachorros
+		</section> <!-- End of Seccion -->
+
 		<section class="Contenido">
 			<div class="Col1-cont1">
-				<img src="img/perfil-interna.jpg" alt="Pedro Monges">
+				<img src="img/banners/cachorros.jpg" alt="Pedro Monges">
 			</div> <!-- End of Col1 -->
 
 			<div class="Col2-cont2 Texto-corto">
