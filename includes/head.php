@@ -3,7 +3,9 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Peterscan Adiestramiento Canino</title>
-	<meta name="description" content="">
+	<meta name="description" content="El adiestramiento que realizo posibilita que los perros 
+	aprendan con alegria y confianza, sin temores, sin forzar etapas, garantizando un 
+	adiestramiento eficaz y perdurable en el tiempo">
 
 	<!-- VIEWPORT -->
 	<meta name="viewport" content="width=device-width, user-scalable=no"/>

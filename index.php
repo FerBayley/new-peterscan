@@ -32,9 +32,9 @@
 			<img src="img/adiestramiento.jpg" alt="adiestramiento">
 			<article>
 				<p>
-					El adiestramiento que realizo posibilita que los perros aprendan con alegría 
-					y confianza, sin temores, sin forzar etapas, garantizando un adiestramiento 
-					eficaz y perdurable en el tiempo.
+					El adiestramiento que realizo posibilita que los perros aprendan con 
+					alegr&iacute;a y confianza, sin temores, sin forzar etapas, garantizando 
+					un adiestramiento eficaz y perdurable en el tiempo.
 				</p>
 			</article>
 				<div class="Ver-mas">
@@ -49,7 +49,10 @@
 			<img src="img/cachorros.jpg" alt="todo sobre cachorros">
 			<article>
 				<p>
-					Antes de comprar el cachorro que nos gusta, es preciso informarse sobre cu&aacute;les son las caracter&iacute;sticas, necesidades de la raza y las condiciones de vida de un perro. Contar con esta informaci&oacute;n...
+					Antes de comprar el cachorro que nos gusta, es preciso informarse sobre 
+					cu&aacute;les son las caracter&iacute;sticas, necesidades de la raza y 
+					las condiciones de vida de un perro. Contar con esta 
+					informaci&oacute;n...
 				</p>
 			</article>
 				<div class="Ver-mas">
@@ -64,8 +67,8 @@
 			<img src="img/clientes.jpg" alt="mis clientes">
 			<article>
 				<p>
-					Gracias a todos por permitirme ser parte de la educación y el adiestramiento 
-					de sus queridos perros
+					Gracias a todos por permitirme ser parte de la educaci&oacute;n y el 
+					adiestramiento de sus queridos perros
 				</p>
 			</article>
 				<div class="Ver-mas">
@@ -80,13 +83,16 @@
 		<h2>Adiestramiento de perros</h2>
 		<article>
 			<p>
-				Asesoramiento sobre como resolver todas las conductas indeseables de nuestros perros. 
+				Asesoramiento sobre como resolver todas las conductas indeseables de nuestros 
+				perros. 
 			</p>
 			<p>
-				El adiestramiento que realizo posibilita que los perros aprendan con alegría 
+				El adiestramiento que realizo posibilita que los perros aprendan con 
+				alegr&iacute;a 
 			</p>
 			<p>
-				y confianza, sin temores, sin forzar etapas, garantizando un adiestramiento eficaz y perdurable en el tiempo.
+				y confianza, sin temores, sin forzar etapas, garantizando un adiestramiento 
+				eficaz y perdurable en el tiempo.
 			</p>
 		</article>
 			<img src="img/perfil-pedro.jpg" alt="Pedro Monges">

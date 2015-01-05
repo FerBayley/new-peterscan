@@ -1,3 +1,3 @@
 <section class="Logo-interno">
-		<h1><img src="img/logo-interno.jpg" alt="Peterscan"></h1>
+		<h1><a href="index.php"><img src="img/logo-interno.jpg" alt="Peterscan"></a></h1>
 </section> <!-- End of Logo-interno -->
