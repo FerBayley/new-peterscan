@@ -1,55 +1,10 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-	<meta charset="UTF-8">
-	<title>Peterscan - Adiestramiento</title>
-	<meta name="description" content="">
+<?php include("includes/head.php"); ?>
 
-	<!-- VIEWPORT -->
-	<meta name="viewport" content="width=device-width, user-scalable=no"/>
-	<!-- VIEWPORT -->
-	
-	<!-- CSS -->
-	<link rel="stylesheet" href="css/normalize.css" />
-	<link rel="stylesheet" href="css/main.css" />
-	<!-- CSS -->
-
-	<!-- JS -->
-	<script type="text/javascript" src="js/responsivemobilemenu.js"></script>
-	<script type="text/javascript" src="js/modernizr.custom.13251.js"></script>
-	<!-- JS -->
-	
-	<!-- FAVICON -->
-	<link rel="shortcut icon" href="favicon.ico" />
-	<!-- FAVICON -->
-
-
-	<!--[if lt IE 9]>
-    	<script src="components/html5shiv/html5shiv.js"></script>
-	<![endif]-->
-
-
-</head>
 <body>
 
+		<?php include("includes/menu.php"); ?>
 
-		<header>
-			<div class="Contenedor-menu">
-				<ul>
-					<li><img src="img/telefono.png" alt="Contacto telefonico"></li>
-					<li><span>Pedro Monges (54-11) 4-788-9445 / Cel: (54-11) 15-5 007-1603 / info@peterscan.com.ar</span></li>
-					<li><a href="index.html">INICIO</a></li>
-					<li><a href="#">ADIESTRAMIENTO</a></li>
-					<li><a href="#">ASESORAMIENTO</a></li>
-					<li><a href="#">PASEOS</a></li>
-				</ul>
-			</div> <!-- End of Contenedor-menu -->
-		</header> <!-- End of header -->
-
-
-		<section class="Logo-interno">
-			<h1><img src="img/Logo-interno.jpg" alt="Peterscan"></h1>
-		</section> <!-- End of Logo-interno -->
+		<?php include("includes/logo.php"); ?>
 
 		<section class="Contenido">
 			<div class="Col1-cont1">
@@ -57,19 +12,6 @@
 			</div> <!-- End of Col1 -->
 
 			<div class="Col2-cont2">
-				<div class="Titulos">
-					<ul>
-						<li><h2>ADIESTRAMIENTO</h2></li>
-						<li><img src="img/adiestramiento-mini.jpg" alt=""></li>
-					</ul>
-				</div> <!-- End of Titulos -->
-
-				<article>
-					<p>
-						El adiestramiento que realizo se sustenta a partir de mi conocimiento e idoneidad sobre la capacidad de cada perro para aprender, siendo claro y coherente en la forma que emito las &oacute;rdenes que deseo ense&ntilde;ar, firme pero no agresivo en la manera de tratarlos. Este enfoque personal, posibilita que los aprendan con alegr&iacute;a y confianza, sin temores, sin forzar etapas al respetar las capacidades individuales, garantizando un adiestramiento eficaz y perdurable en el tiempo.
-					</p>
-				</article>
-
 				<h2>PLANIFICACION Y DESARROLLO</h2>
 				<article>
 					<p>
@@ -166,81 +108,15 @@
 					<a href="#"><img src="img/ver-mas.jpg" alt="Ver mas en Peterscan"></a>
 				</div> <!-- End of VerMas -->
 
-
 			</div> <!-- End of Col2 -->
 		</section> <!-- End of Contenido -->
 
+	
+	<?php include("includes/razas.php"); ?>
 
-	<section class="Testimonios">
-		<h2>Testimonios</h2>
-		<div class="col-test1">
-			<img src="img/testimoni1.jpg" alt="Testimonios 1">
-			<article>
-				<p>
-					"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-				</p>
-				<a href="#">@usuario</a>
-			</article>
-		</div> <!-- End of col-test1 -->
+	<?php include("includes/perdidos.php"); ?>
 
-		<div class="col-test2">
-			<img src="img/testimoni2.jpg" alt="Testimonios 2">
-			<article>
-				<p>
-					"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-				</p>
-				<a href="#">@usuario</a>
-			</article>
-		</div> <!-- End of col-test2 -->
-
-		<div class="col-test3">
-			<img src="img/testimoni3.jpg" alt="Testimonios 3">
-			<article>
-				<p>
-					"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-				</p>
-				<a href="#">@usuario</a>
-			</article>
-		</div> <!-- End of col-test3 -->
-	</section> <!-- End of Testimonios -->
-
-	<section class="Razas">
-		<div class="Contenedor-razas">
-			<hgroup><h2>RAZAS</h2></hgroup>
-
-			<div class="Boton">
-				<a href="#">
-					CONOCE TODAS LAS RAZAS
-				</a>
-			</div> <!-- End of Boton -->
-
-			<div class="Contacto">
-				<ul>
-					<li><a href=""><img src="img/email.png" alt="contacto via email"></a></li>
-					<li><a href="">Consultame por una raza en particular</a></li>
-				</ul>
-			</div> <!-- End of Contacto -->
-		</div> <!-- End of Contenedor-razas -->
-	</section> <!-- End of Razas -->
-
-	<section class="Perdidos">
-		<div class="contenedor-perdidos">
-			<article>
-				<p>
-					¿LO PERDISTE O LO ENCONTRASTE?
-					<br>
-				</p>
-				<a href="#">INGRESA ACA</a>
-				<h3>Ingresa a nuestro grupo en Facebook, subí y publicá las fotos de tu mascota extraviada</h3>
-			</article>
-		</div> <!-- End of contenedor-perdidos -->
-	</section> <!-- End of Perdidos -->
-
-	<footer>
-		<div class="contenedor-footer">
-			<h6>Peter´s Can - Adiestramiento Canino - Todos los derechos reservados 2014 - <a href="mailto:info@peterscan.com.ar">info@peterscan.com.ar</a></h6>
-		</div> <!-- End of contenedor-footer -->
-	</footer>
+	<?php include("includes/footer.php"); ?>
 	
 </body>
 </html>
