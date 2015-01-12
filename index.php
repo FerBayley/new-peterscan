@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
 	<meta charset="UTF-8">
 	<title>PetersCan - Adietramiento Canino</title>
@@ -9,6 +9,7 @@
 	<link rel="stylesheet" href="css/main.css" />
 	<!-- CSS -->
 </head>
+
 <body>
 
 	<section class="Main">
@@ -42,7 +43,7 @@
 				<img src="img/adiestramiento.jpg" width="101" height="128" alt="">
 				<article>
 					<p>
-						El adiestramiento que realizo posibilita que los perros aprendan con alegría 
+						El adiestramiento que realizo posibilita que los perros aprendan con alegr&iacute;a 
 						y confianza, sin temores, sin forzar etapas, garantizando un adiestramiento 
 						eficaz y perdurable en el tiempo.
 					</p>
@@ -60,8 +61,8 @@
 				<article>
 					<p>
 						Antes de comprar el cachorro que nos gusta, es preciso informarse sobre 
-						cuáles son las características, necesidades de la raza y las condiciones 
-						de vida de un perro. Contar con esta información...
+						cu&aacute;les son las caracter&iacute;sticas, necesidades de la raza y las 
+						condiciones de vida de un perro. Contar con esta informaci&oacute;n...
 					</p>
 				</article>
 				<div class="Boton-verMas">
@@ -76,7 +77,7 @@
 				<img src="img/clientes.jpg" width="134" height="128" alt="">
 				<article>
 					<p>
-						Gracias a todos por permitirme ser parte de la educación y el adiestramiento 
+						Gracias a todos por permitirme ser parte de la educaci&oacute;n y el adiestramiento 
 						de sus queridos perros
 					</p>
 				</article>
@@ -93,7 +94,7 @@
 			<article>
 				<p>
 					Asesoramiento sobre como resolver todas las conductas indeseables de nuestros perros.
-					El adiestramiento que realizo posibilita que los perros aprendan con alegría
+					El adiestramiento que realizo posibilita que los perros aprendan con alegr&iacute;a
 					y confianza, sin temores, sin forzar etapas, garantizando un adiestramiento 
 					eficaz y perdurable en el tiempo.
 				</p>
