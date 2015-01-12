@@ -1,117 +1,148 @@
-<?php include("includes/head.php"); ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>PetersCan - Adietramiento Canino</title>
 
+	<!-- CSS -->
+	<link rel="stylesheet" href="css/normalize.css" />
+	<link rel="stylesheet" href="css/main.css" />
+	<!-- CSS -->
+</head>
 <body>
 
-	<section class="Contenedor">
-		
-		<?php include("includes/menu.php"); ?>
+	<section class="Main">
+		<section class="Preheader">
+			<p>Pedro Monges (54-11) 4-788-9445 / Cel: (54-11) 15-5 007-1603 / <a href="mailto:info@peterscan.com.ar">info@peterscan.com.ar</a></p>
+		</section> <!-- End of Preheader -->
 
-		<section class="Logo">
-			<a href="index.php">
-				<h1><img src="img/logo.png" alt="Peters Can"></h1>
-			</a>
-
-			<h2>Adiestramiento Canino</h2>
-			
-			<div class="Redes">
-				<ul>
-					<li><a href="#"><img src="img/facebook-img.png" alt="Facebook"></a></li>
-					<li><a href="#"><img src="img/twitter-img.png" alt="Twitter"></a></li>
-				</ul>
-			</div> <!-- End of Redes -->
-		</section> <!-- End of Logo -->
-
-		<section class="Forma">
-			<img src="img/forma.png" alt="forma">
-		</section> <!-- End of Forma -->
-	</section> <!-- End of Contenedor -->
-
-	<section class="Columnas">
-		<div class="Col1">
-		<h2>ADIESTRAMIENTO</h2>
-			<img src="img/adiestramiento.jpg" alt="adiestramiento">
-			<article>
-				<p>
-					El adiestramiento que realizo posibilita que los perros aprendan con 
-					alegr&iacute;a y confianza, sin temores, sin forzar etapas, garantizando 
-					un adiestramiento eficaz y perdurable en el tiempo.
-				</p>
-			</article>
-				<div class="Ver-mas">
-					<a href="adiestramiento.php">
-						<img src="img/btn-vermas.jpg" alt="ver mas">
-					</a>
-				</div> <!-- End of ver-mas -->
-		</div> <!-- End of Col1 -->
-
-		<div class="Col2">
-		<h2>TODO SOBRE CACHORROS</h2>
-			<img src="img/cachorros.jpg" alt="todo sobre cachorros">
-			<article>
-				<p>
-					Antes de comprar el cachorro que nos gusta, es preciso informarse sobre 
-					cu&aacute;les son las caracter&iacute;sticas, necesidades de la raza y 
-					las condiciones de vida de un perro. Contar con esta 
-					informaci&oacute;n...
-				</p>
-			</article>
-				<div class="Ver-mas">
-					<a href="cachorros.php">
-						<img src="img/btn-vermas.jpg" alt="ver mas">
-					</a>
-				</div> <!-- End of ver-mas -->
-		</div> <!-- End of Col2 -->
-
-		<div class="Col3">
-		<h2>MIS CLIENTES</h2>
-			<img src="img/clientes.jpg" alt="mis clientes">
-			<article>
-				<p>
-					Gracias a todos por permitirme ser parte de la educaci&oacute;n y el 
-					adiestramiento de sus queridos perros
-				</p>
-			</article>
-				<div class="Ver-mas">
-					<a href="http://www.peterscan.com.ar/clientes/">
-						<img src="img/btn-vermas.jpg" alt="ver mas">
-					</a>
-				</div> <!-- End of ver-mas -->
-		</div> <!-- End of Col3 -->
-	</section> <!-- End of Columnas -->
-
-	<section class="Quien-soy">
-		<h2>Adiestramiento de perros</h2>
-		<article>
-			<p>
-				Asesoramiento sobre como resolver todas las conductas indeseables de nuestros 
-				perros. 
-			</p>
-			<p>
-				El adiestramiento que realizo posibilita que los perros aprendan con 
-				alegr&iacute;a 
-			</p>
-			<p>
-				y confianza, sin temores, sin forzar etapas, garantizando un adiestramiento 
-				eficaz y perdurable en el tiempo.
-			</p>
-		</article>
-		<section class="Redes-perfil">
+		<nav>
 			<ul>
-				<li><a href="#"><img src="img/facebook.jpg" alt="Facebook"></a></li>
-				<li><a href="#"><img src="img/twitter.jpg" alt="Twitter"></a></li>
-				<li><a href="#"><img src="img/mail.jpg" alt="Contactp"></a></li>
+				<li><a href="">INICIO</a></li>
+				<li><a href="">ADIESTRAMIENTO</a></li>
+				<li><a href="">CLIENTES</a></li>
+				<li><a href="">CONTACTO</a></li>
 			</ul>
-		</section> <!-- End of Redes-perfil -->
-	</section> <!-- End of Quien-soy -->
+		</nav> <!-- End of nav -->
 
-	<?php include("includes/generados.php"); ?>
+		<section class="Imagen-principal">
+			<div class="Logo">
+				<img src="img/logo.png" alt="PetersCan">
+				<h2>Adiestramiento Canino</h2>
+			</div> <!-- End of Logo -->
 
-	<?php include("includes/perdidos.php"); ?>
+			<div class="Forma">
+				<img src="img/forma.png" alt="">
+			</div> <!-- End of Forma -->
+		</section> <!-- End of Imagen-principal -->
 
-	<?php include("includes/footer.php"); ?>
+		<section class="Contenedor-columnas">
+			<div class="Cols">
+				<h2>ADIESTRAMIENTO</h2>
+				<img src="img/adiestramiento.jpg" width="101" height="128" alt="">
+				<article>
+					<p>
+						El adiestramiento que realizo posibilita que los perros aprendan con alegría 
+						y confianza, sin temores, sin forzar etapas, garantizando un adiestramiento 
+						eficaz y perdurable en el tiempo.
+					</p>
+				</article>
+				<div class="Boton-verMas">
+					<a href="#">
+						<img src="img/btn-vermas.jpg" alt="">
+					</a>
+				</div> <!-- End of Boton-verMas -->
+			</div> <!-- End of Cols -->
 
-	<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
+			<div class="Cols">
+				<h2>TODO SOBRE CACHORROS</h2>
+				<img src="img/cachorros.jpg" width="164" height="128" alt="">
+				<article>
+					<p>
+						Antes de comprar el cachorro que nos gusta, es preciso informarse sobre 
+						cuáles son las características, necesidades de la raza y las condiciones 
+						de vida de un perro. Contar con esta información...
+					</p>
+				</article>
+				<div class="Boton-verMas">
+					<a href="#">
+						<img src="img/btn-vermas.jpg" alt="">
+					</a>
+				</div> <!-- End of Boton-verMas -->
+			</div> <!-- End of Cols -->
 
+			<div class="Cols">
+				<h2>MIS CLIENTES</h2>
+				<img src="img/clientes.jpg" width="134" height="128" alt="">
+				<article>
+					<p>
+						Gracias a todos por permitirme ser parte de la educación y el adiestramiento 
+						de sus queridos perros
+					</p>
+				</article>
+				<div class="Boton-verMas Btn-clientes">
+					<a href="#">
+						<img src="img/btn-vermas.jpg" alt="">
+					</a>
+				</div> <!-- End of Boton-verMas -->
+			</div> <!-- End of Cols -->
+		</section> <!-- End of Contenedor-columnas -->
+
+		<section class="Columnas-adiestramiento">
+			<h2>Adiestramiento de perros</h2>
+			<article>
+				<p>
+					Asesoramiento sobre como resolver todas las conductas indeseables de nuestros perros.
+					El adiestramiento que realizo posibilita que los perros aprendan con alegría
+					y confianza, sin temores, sin forzar etapas, garantizando un adiestramiento 
+					eficaz y perdurable en el tiempo.
+				</p>
+			</article>
+			<div class="Redes-personales">
+				<ul>
+					<li><a href="#"><img src="img/facebook.jpg" width="33" height="33" alt="Facebook"></a></li>
+					<li><a href="#"><img src="img/twitter.jpg" width="33" height="33" alt="Twitter"></a></li>
+					<li><a href="#"><img src="img/mail.jpg" width="33" height="33" alt="Contacto"></a></li>
+				</ul>
+			</div> <!-- End of Redes-personales -->
+		</section> <!-- End of Columnas-adiestramiento -->
+
+		<section class="Contenedor-influencia">
+			<h2>Influencia Positiva de los perros</h2>
+			<div class="Influencias">
+				<ul>
+					<li>
+						<img src="img/generadores/influencia5.jpg" width="150" height="150" alt="Adiestramiento UP">
+						<h3>Adiestramiento UP</h3>
+					</li>
+
+					<li>
+						<img src="img/generadores/influencia4.jpg" width="150" height="150" alt="Conociendo al Weimaraner">
+						<h3>Conociendo al Weimaraner</h3>
+					</li>
+
+					<li>
+						<img src="img/generadores/influencia2.jpg" width="150" height="150" alt="Perros con poder">
+						<h3>Perros con poder</h3>
+					</li>
+
+					<li>
+						<img src="img/generadores/influencia.jpg" width="150" height="150" alt="Influencia positiva de los perros">
+						<h3>Influencia positiva de los perros</h3>
+					</li>
+
+					<li>
+						<img src="img/generadores/influencia3.jpg" width="150" height="150" alt="Perros generadores de emociones">
+						<h3>Perros generadores de emociones</h3>
+					</li>
+				</ul>
+			</div> <!-- End of Influencias -->
+		</section> <!-- End of Contenedor-influencia -->
+
+		<footer>
+			<p>&copy; 2015 - Peters Can - Adiestramiento Canino - Todos los derechos reservados 2014 - <a href="mailto:info@peterscan.com.ar">info@peterscan.com.ar</a></p>
+		</footer>
+	</section> <!-- End of Main -->
 	
 </body>
 </html>
