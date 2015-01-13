@@ -25,7 +25,8 @@
 			<ul>
 				<li><a href="index.php">INICIO</a></li>
 				<li><a href="adiestramiento.php">ADIESTRAMIENTO</a></li>
-				<li><a href="">CLIENTES</a></li>
+				<li><a href="cachorros.php">CACHORROS</a></li>
+				<li><a href="http://www.peterscan.com.ar/clientes/">CLIENTES</a></li>
 				<li><a href="">CONTACTO</a></li>
 			</ul>
 		</nav> <!-- End of nav -->
@@ -249,36 +250,55 @@
 
 
 		<section class="Contenedor-influencia">
-			<h2>Influencia Positiva de los perros</h2>
 			<div class="Influencias">
 				<ul>
-					<li>
-						<img src="img/generadores/influencia5.jpg" width="150" height="150" alt="Adiestramiento UP">
-						<h3>Adiestramiento UP</h3>
-					</li>
+					<a href="adiestramiento-up.php">
+						<li>
+							<img src="img/generadores/influencia5.jpg" width="150" height="150" alt="Adiestramiento UP">
+							<h3>Adiestramiento UP</h3>
+						</li>
+					</a>
 
-					<li>
-						<img src="img/generadores/influencia4.jpg" width="150" height="150" alt="Conociendo al Weimaraner">
-						<h3>Conociendo al Weimaraner</h3>
-					</li>
+					<a href="el-weimaraner.php">
+						<li>
+							<img src="img/generadores/influencia4.jpg" width="150" height="150" alt="Conociendo al Weimaraner">
+							<h3>Conociendo al Weimaraner</h3>
+						</li>
+					</a>
 
-					<li>
-						<img src="img/generadores/influencia2.jpg" width="150" height="150" alt="Perros con poder">
-						<h3>Perros con poder</h3>
-					</li>
+					<a href="perros-con-poder.php">
+						<li>
+							<img src="img/generadores/influencia2.jpg" width="150" height="150" alt="Perros con poder">
+							<h3>Perros con poder</h3>
+						</li>
+					</a>
 
-					<li>
-						<img src="img/generadores/influencia.jpg" width="150" height="150" alt="Influencia positiva de los perros">
-						<h3>Influencia positiva de los perros</h3>
-					</li>
+					<a href="influencia-positiva-de-los-perros.php">
+						<li>
+							<img src="img/generadores/influencia.jpg" width="150" height="150" alt="Influencia positiva de los perros">
+							<h3>Influencia positiva de los perros</h3>
+						</li>
+					</a>
 
-					<li>
-						<img src="img/generadores/influencia3.jpg" width="150" height="150" alt="Perros generadores de emociones">
-						<h3>Perros generadores de emociones</h3>
-					</li>
+					<a href="perros-generadores-de-emociones.php">
+						<li>
+							<img src="img/generadores/influencia3.jpg" width="150" height="150" alt="Perros generadores de emociones">
+							<h3>Perros generadores de emociones</h3>
+						</li>
+					</a>
 				</ul>
 			</div> <!-- End of Influencias -->
 		</section> <!-- End of Contenedor-influencia -->
+
+		<section class="Pre-footer">
+			<div class="Redes-personales">
+				<ul>
+					<li><a href="#"><img src="img/facebook.jpg" width="33" height="33" alt="Facebook"></a></li>
+					<li><a href="#"><img src="img/twitter.jpg" width="33" height="33" alt="Twitter"></a></li>
+					<li><a href="#"><img src="img/mail.jpg" width="40" height="33" alt="Contacto"></a></li>
+				</ul>
+			</div> <!-- End of Redes-personales -->
+		</section> <!-- End of Pre-footer -->
 
 		<footer>
 			<p>&copy; 2015 - Peters Can - Adiestramiento Canino - Todos los derechos reservados 2014 - <a href="mailto:info@peterscan.com.ar">info@peterscan.com.ar</a></p>

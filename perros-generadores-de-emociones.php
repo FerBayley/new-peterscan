@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
-	<title>PetersCan - Adietramiento Canino</title>
+	<title>Perros generadores de emociones - PetersCan - Adietramiento Canino</title>
 
 	<!-- VIEWPORT -->
 	<meta name="viewport" content="width=device-width, user-scalable=no"/>
@@ -27,7 +27,6 @@
 	<![endif]-->
 
 </head>
-
 <body>
 
 	<section class="Main">
@@ -45,68 +44,49 @@
 			</ul>
 		</nav> <!-- End of nav -->
 
-		<section class="Imagen-principal">
-			<div class="Logo">
-				<img src="img/logo.png" alt="PetersCan">
-				<h2>Adiestramiento Canino</h2>
-			</div> <!-- End of Logo -->
+		<section class="Contenedor-adiestramiento">
+			<div class="Logo-interno">
+				<a href="#">
+					<img src="img/logo-interno.jpg" alt="PeterScan">
+				</a>
+			</div> <!-- End of Logo-interno -->
+		</section> <!-- End of Contenedor-adiestramiento -->
 
-			<div class="Forma">
-				<img src="img/forma.png" alt="">
-			</div> <!-- End of Forma -->
-		</section> <!-- End of Imagen-principal -->
+		<section class="Descripcion-seccion">
+			<p>SECCION: Las mascotas son generadoras de emociones</p>
+		</section> <!-- End of Descripcion-seccion -->
 
-		<section class="Contenedor-columnas">
-			<div class="Cols">
-				<h2>ADIESTRAMIENTO</h2>
-				<img src="img/adiestramiento.jpg" width="101" height="128" alt="">
+		<section class="Contenedor-contenido">
+			<aside><h1>ACA VA LA IMAGEN DE LA SECCION</h1></aside> <!-- End of aside -->
+
+			<div class="Contenido">
 				<article>
-					<p>
-						El adiestramiento que realizo posibilita que los perros aprendan con alegr&iacute;a 
-						y confianza, sin temores, sin forzar etapas, garantizando un adiestramiento 
-						eficaz y perdurable en el tiempo.
-					</p>
-				</article>
-				<div class="Boton-verMas">
-					<a href="#">
-						<img src="img/btn-vermas.jpg" alt="">
-					</a>
-				</div> <!-- End of Boton-verMas -->
-			</div> <!-- End of Cols -->
+					<h2>LAS MASCOTAS SON GENERADORAS DE EMOCIONES</h2>
 
-			<div class="Cols">
-				<h2>TODO SOBRE CACHORROS</h2>
-				<img src="img/cachorros.jpg" width="164" height="128" alt="">
-				<article>
 					<p>
-						Antes de comprar el cachorro que nos gusta, es preciso informarse sobre 
-						cu&aacute;les son las caracter&iacute;sticas, necesidades de la raza y las 
-						condiciones de vida de un perro. Contar con esta informaci&oacute;n...
-					</p>
+						Muchas personas ya adultas al tener contacto con su perro, vuelven a 
+						sentir la magia y la alegr&iacute;a de cuando eran chicos, es como si 
+						retrocedieran en el tiempo sin saberlo, son instantes fugaces en los que 
+						se vuelven a sentir ni&ntilde;os. Cuando nos acercamos a nuestro perro y 
+						lo acariciamos, lo abrazamos, le damos un beso, jugamos a lo bruto, o nos 
+						encontramos en una mirada profunda que nos conmueve, sentimos un 
+						cari&ntilde;o enorme e inexplicable por &eacute;l. La explicaci&oacute;n 
+						a este sentimiento que a veces nos sorprende debemos buscarla en los 
+						recuerdos de nuestra infancia o juventud, es por ello que siendo personas 
+						adultas el contacto con una mascota nos hace revivir emociones quiz&aacute;s 
+						ya olvidadas. Una persona no busca una mascota por que piensa que le va 
+						provocar este sentimiento, simplemente ocurre, se vivencia y es muy 
+						dif&iacute;cil ponerlo en palabras, se siente o no se siente, por eso 
+						es terap&eacute;utico, sanador o hace bien.
+					</p>					
+					
+					<div class="Accesos-facebook">
+						<a href="#"><img src="img/ver-mas.jpg" alt=""></a>
+					</div> <!-- End of Accesos-facebook -->					
 				</article>
-				<div class="Boton-verMas">
-					<a href="#">
-						<img src="img/btn-vermas.jpg" alt="">
-					</a>
-				</div> <!-- End of Boton-verMas -->
-			</div> <!-- End of Cols -->
+			</div> <!-- End of Contenido -->
+		</section> <!-- End of Contenedor-contenido -->
 
-			<div class="Cols">
-				<h2>MIS CLIENTES</h2>
-				<img src="img/clientes.jpg" width="134" height="128" alt="">
-				<article>
-					<p>
-						Gracias a todos por permitirme ser parte de la educaci&oacute;n y el adiestramiento 
-						de sus queridos perros
-					</p>
-				</article>
-				<div class="Boton-verMas Diferente">
-					<a href="#">
-						<img src="img/btn-vermas.jpg" alt="">
-					</a>
-				</div> <!-- End of Boton-verMas -->
-			</div> <!-- End of Cols -->
-		</section> <!-- End of Contenedor-columnas -->
 
 		<section class="Contenedor-influencia">
 			<div class="Influencias">
@@ -160,7 +140,7 @@
 		</section> <!-- End of Pre-footer -->
 
 		<footer>
-			<p>&copy; Todos los derechos reservados 2015 - Peters Can - Adiestramiento Canino<a href="mailto:info@peterscan.com.ar">info@peterscan.com.ar</a></p>
+			<p>&copy; 2015 - Peters Can - Adiestramiento Canino - Todos los derechos reservados 2014 - <a href="mailto:info@peterscan.com.ar">info@peterscan.com.ar</a></p>
 		</footer>
 	</section> <!-- End of Main -->
 	
