@@ -4,11 +4,15 @@
 	<meta charset="UTF-8">
 	<title>PetersCan - Adietramiento Canino</title>
 
+	<!-- VIEWPORT -->
+	<meta name="viewport" content="width=device-width, user-scalable=no"/>
+	<!-- VIEWPORT -->
+
 	<!-- CSS -->
 	<link rel="stylesheet" href="css/normalize.css" />
 	<link rel="stylesheet" href="css/main.css" />
 	<!-- CSS -->
-	
+
 </head>
 <body>
 
@@ -19,8 +23,8 @@
 
 		<nav>
 			<ul>
-				<li><a href="">INICIO</a></li>
-				<li><a href="">ADIESTRAMIENTO</a></li>
+				<li><a href="index.php">INICIO</a></li>
+				<li><a href="adiestramiento.php">ADIESTRAMIENTO</a></li>
 				<li><a href="">CLIENTES</a></li>
 				<li><a href="">CONTACTO</a></li>
 			</ul>

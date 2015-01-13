@@ -4,6 +4,10 @@
 	<meta charset="UTF-8">
 	<title>PetersCan - Adietramiento Canino</title>
 
+	<!-- VIEWPORT -->
+	<meta name="viewport" content="width=device-width, user-scalable=no"/>
+	<!-- VIEWPORT -->
+
 	<!-- CSS -->
 	<link rel="stylesheet" href="css/normalize.css" />
 	<link rel="stylesheet" href="css/main.css" />
@@ -19,8 +23,8 @@
 
 		<nav>
 			<ul>
-				<li><a href="">INICIO</a></li>
-				<li><a href="">ADIESTRAMIENTO</a></li>
+				<li><a href="index.php">INICIO</a></li>
+				<li><a href="adiestramiento.php">ADIESTRAMIENTO</a></li>
 				<li><a href="">CLIENTES</a></li>
 				<li><a href="">CONTACTO</a></li>
 			</ul>
@@ -81,7 +85,7 @@
 						de sus queridos perros
 					</p>
 				</article>
-				<div class="Boton-verMas Btn-clientes">
+				<div class="Boton-verMas Diferente">
 					<a href="#">
 						<img src="img/btn-vermas.jpg" alt="">
 					</a>
@@ -141,7 +145,7 @@
 		</section> <!-- End of Contenedor-influencia -->
 
 		<footer>
-			<p>&copy; 2015 - Peters Can - Adiestramiento Canino - Todos los derechos reservados 2014 - <a href="mailto:info@peterscan.com.ar">info@peterscan.com.ar</a></p>
+			<p>&copy; Todos los derechos reservados 2015 - Peters Can - Adiestramiento Canino<a href="mailto:info@peterscan.com.ar">info@peterscan.com.ar</a></p>
 		</footer>
 	</section> <!-- End of Main -->
 	
