@@ -253,17 +253,15 @@
 		</section> <!-- End of Contenedor-influencia -->
 
 		<section class="Pre-footer">
-			<div class="Redes-personales">
-				<ul>
-					<li><a href="#"><img src="img/facebook.jpg" width="33" height="33" alt="Facebook"></a></li>
-					<li><a href="#"><img src="img/twitter.jpg" width="33" height="33" alt="Twitter"></a></li>
-					<li><a href="#"><img src="img/mail.jpg" width="40" height="33" alt="Contacto"></a></li>
-				</ul>
-			</div> <!-- End of Redes-personales -->
+			<ul class="Redes-personales">
+				<li><a href="#"><img src="img/facebook.jpg" width="33" height="33" alt="Facebook"></a></li>
+				<li><a href="#"><img src="img/twitter.jpg" width="33" height="33" alt="Twitter"></a></li>
+				<li><a href="#"><img src="img/mail.jpg" width="40" height="33" alt="Contacto"></a></li>
+			</ul>
 		</section> <!-- End of Pre-footer -->
 
 		<footer>
-			<p>&copy; 2015 - Peters Can - Adiestramiento Canino - Todos los derechos reservados 2014 - <a href="mailto:info@peterscan.com.ar">info@peterscan.com.ar</a></p>
+			<p>&copy; Todos los derechos reservados 2015 - Peters Can - Adiestramiento Canino <a href="mailto:info@peterscan.com.ar">info@peterscan.com.ar</a></p>
 		</footer>
 	</section> <!-- End of Main -->
 	

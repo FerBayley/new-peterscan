@@ -5,7 +5,7 @@
 	<title>PetersCan - Adietramiento Canino</title>
 
 	<!-- VIEWPORT -->
-	<meta name="viewport" content="width=device-width, user-scalable=no"/>
+	<meta name="viewport" content="width=device-width, maximun-scale=1, user-scalable=none"/>
 	<!-- VIEWPORT -->
 
 	<!-- CSS -->
@@ -57,7 +57,7 @@
 		</section> <!-- End of Imagen-principal -->
 
 		<section class="Contenedor-columnas">
-			<div class="Cols">
+			<div class="Col1">
 				<h2>ADIESTRAMIENTO</h2>
 				<img src="img/adiestramiento.jpg" width="101" height="128" alt="">
 				<article>
@@ -67,15 +67,15 @@
 						eficaz y perdurable en el tiempo.
 					</p>
 				</article>
-				<div class="Boton-verMas">
-					<a href="#">
-						<img src="img/btn-vermas.jpg" alt="">
-					</a>
-				</div> <!-- End of Boton-verMas -->
+				<a href="#">
+					<div class="Boton-verMas">
+						VER MAS
+					</div> <!-- End of Boton-verMas -->
+				</a>
 			</div> <!-- End of Cols -->
 
-			<div class="Cols">
-				<h2>TODO SOBRE CACHORROS</h2>
+			<div class="Col2">
+				<h2>CACHORROS</h2>
 				<img src="img/cachorros.jpg" width="164" height="128" alt="">
 				<article>
 					<p>
@@ -84,14 +84,14 @@
 						condiciones de vida de un perro. Contar con esta informaci&oacute;n...
 					</p>
 				</article>
-				<div class="Boton-verMas">
 					<a href="#">
-						<img src="img/btn-vermas.jpg" alt="">
+						<div class="Boton-verMas">
+							VER MAS
+						</div> <!-- End of Boton-verMas -->
 					</a>
-				</div> <!-- End of Boton-verMas -->
 			</div> <!-- End of Cols -->
 
-			<div class="Cols">
+			<div class="Col3">
 				<h2>MIS CLIENTES</h2>
 				<img src="img/clientes.jpg" width="134" height="128" alt="">
 				<article>
@@ -100,11 +100,11 @@
 						de sus queridos perros
 					</p>
 				</article>
-				<div class="Boton-verMas Diferente">
-					<a href="#">
-						<img src="img/btn-vermas.jpg" alt="">
-					</a>
-				</div> <!-- End of Boton-verMas -->
+				<a href="#">
+					<div class="Boton-verMas">
+						VER MAS
+					</div> <!-- End of Boton-verMas -->
+				</a>
 			</div> <!-- End of Cols -->
 		</section> <!-- End of Contenedor-columnas -->
 
@@ -142,7 +142,7 @@
 					<a href="perros-generadores-de-emociones.php">
 						<li>
 							<img src="img/generadores/influencia3.jpg" width="150" height="150" alt="Perros generadores de emociones">
-							<h3>Perros generadores de emociones</h3>
+							<h3>Generadores de emociones</h3>
 						</li>
 					</a>
 				</ul>
@@ -150,17 +150,15 @@
 		</section> <!-- End of Contenedor-influencia -->
 
 		<section class="Pre-footer">
-			<div class="Redes-personales">
-				<ul>
-					<li><a href="#"><img src="img/facebook.jpg" width="33" height="33" alt="Facebook"></a></li>
-					<li><a href="#"><img src="img/twitter.jpg" width="33" height="33" alt="Twitter"></a></li>
-					<li><a href="#"><img src="img/mail.jpg" width="40" height="33" alt="Contacto"></a></li>
-				</ul>
-			</div> <!-- End of Redes-personales -->
+			<ul class="Redes-personales">
+				<li><a href="#"><img src="img/facebook.jpg" width="33" height="33" alt="Facebook"></a></li>
+				<li><a href="#"><img src="img/twitter.jpg" width="33" height="33" alt="Twitter"></a></li>
+				<li><a href="#"><img src="img/mail.jpg" width="40" height="33" alt="Contacto"></a></li>
+			</ul>
 		</section> <!-- End of Pre-footer -->
 
 		<footer>
-			<p>&copy; Todos los derechos reservados 2015 - Peters Can - Adiestramiento Canino<a href="mailto:info@peterscan.com.ar">info@peterscan.com.ar</a></p>
+			<p>&copy; Todos los derechos reservados 2015 - Peters Can - Adiestramiento Canino <a href="mailto:info@peterscan.com.ar">info@peterscan.com.ar</a></p>
 		</footer>
 	</section> <!-- End of Main -->
 	
