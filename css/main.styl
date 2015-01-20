@@ -16,7 +16,6 @@ body
 	font-size 16px
 	font-style normal
 	font-weight 100
-	width 100%
 	
 footer
 	background #217c48
@@ -47,93 +46,95 @@ nav
 			a
 				color blanco
 				font-size .9em
+				padding .7em .5em .6em .5em
 				text-decoration none
+				-webkit-transition: all .5s ease-in-out
+				-moz-transition: all .5s ease-in-out
+				-o-transition: all .5s ease-in-out
+				-ms-transition: all .5s ease-in-out
+				transition: all .5s ease-in-out
+			a:hover
+				background #2da862
+				padding .7em .5em .6em .5em
+				-webkit-transition: all .5s ease-in-out
+				-moz-transition: all .5s ease-in-out
+				-o-transition: all .5s ease-in-out
+				-ms-transition: all .5s ease-in-out
+				transition: all .5s ease-in-out
 				
 .Accesos-facebook
 	margin 1em 0 2em 0 
-a
-	color blanco
-	font-weight 500
-	text-decoration none			
-	.Boton-verMas
-		background #11cf61
-		border-bottom solid 5px green
-		border-radius 3px
-		-webkit-border-radius 3px
-		-moz-border-radius 3px
-		-o-border-radius 3px
-		-ms-border-radius 3px
-		margin 0 auto
-		margin-top .5em
-		padding .5em 0 .5em 0
-		width 40%
-	.Boton-verMas:hover
-		background green
-		border-bottom solid 5px #11cf61
+				
+.Boton-verMas
+	margin 3em 0 0 0
+.Btn-clientes
+	margin 8.2em 0 0 0
 				
 .Contenedor-columnas
-	display flex
-	display -webkit-flex
-	display -moz-flex
-	display -o-flex
-	display -ms-flex
-	flex-direction row
-	-webkit-flex-direction row
-	-moz-flex-direction row
-	-o-flex-direction row
-	-ms-flex-direction row
-	justify-content space-between
-	-webkit-justify-content space-between
-	-moz-justify-content space-between
-	-o-justify-content space-between
-	-ms-justify-content space-between
-	margin 1.5em 0 0 0
+	height auto
+	margin 0 auto
+	margin-bottom 6em
+	margin-top 4em
+	max-width 1200px
 	text-align center
-	padding 1em	
-	h2
-		color #2da862
-		font-size 1.1em
-		margin 0 0 2em 0
-	p
-		color gris
-		font-size .9em
-		line-height 1.7em
-
-	.Col1
-		margin 0 0 1em 1em
-		width 27%
-	.Col2
-		margin 0 0 1em 1em
-		width 27%
-	.Col3
-		margin 0 0 1em 1em
-		width 27%
+	width 100%
+	.Cols
+		display inline-block
+		height auto
+		margin 0 .5em 0 .5em
+		text-align center
+		vertical-align top
+		width 30%
+		h2
+			color #2da862
+			font-size 1.3em
+			margin 0 0 1em 0
+		p
+			color grey
+			line-height 1.7em
+			margin .5em 0 0 0
+		.Diferente
+			margin 6.3em 0 0 0
 			
 .Contenedor-contenido
-	display flex
-	display -webkit-flex
-	flex-direction row
-	justify-content space-between
 	margin 0 auto
-	max-width 1205px
+	margin-top 2em
+	max-width 1200px
 	width 100%
 	aside
-		height auto 
-		margin 0 .5 0 1em
-		width 25%
-		ul 
-			li
-				font-size .9em
-				list-style none 
-				margin 0 0 2em 0
-				padding .5em 1em 0 1em
-				a
-					color verde
-	.Contenido
+		display inline-block
 		height auto
-		width 73%
+		vertical-align top
+		width 25%
+		ul li
+			font-size .9em
+			list-style none
+			line-height 1.7em
+			margin 0 0 1em 0
+			a
+				color green
+				text-decoration none
+			a:hover
+				text-decoration underline
+			span
+				color blanco
+				background green
+				border-radius 3px
+				padding 0 .3em 0 .3em
+	.Contenido
+		display inline-block
+		height auto
+		vertical-align top
+		width 70%
 		h2
-			font-size 1em
+			color titulos
+			font-size 1.1em
+			margin 0 0 .5em 0
+		p
+			color gris
+			font-size .9em
+			text-align  justify
+			line-height 2em
 		
 .Contenedor-influencia
 	margin 0 auto
@@ -152,7 +153,8 @@ a
 		ul li
 			color gris
 			display inline-block
-			list-style none	
+			list-style none
+			margin 0 1.5em 0 1.5em		
 			img
 				cursor pointer
 				height auto
@@ -161,13 +163,11 @@ a
 				-moz-border-radius 100%
 				-o-border-radius 100%
 				-ms-border-radius 100%
-				width 70%
 			img:hover
 				opacity 0.5
 		h3
 			font-style italic
-			font-size 80%
-			text-align center
+			font-size .9em
 			
 .Contenedor-adiestramiento
 	height auto
@@ -189,12 +189,22 @@ a
 	width 100%
 	h2
 		margin 0 0 .5em 0
+		
+.Contactos
+	height auto
+	margin 0 auto 
+	margin-top 2em
+	max-width 1205px
+	width 100%
+	p
+		color #2da862
+		font-size 3em
+		text-align center
 
 .Descripcion-seccion
 	background #d3dbd7
 	border-top solid 1px verde
 	margin 0 auto
-	margin-bottom 2em
 	margin-top 1em
 	max-width 1200px
 	padding .3em 0 .3em .3em
@@ -216,10 +226,6 @@ a
 	.Logo
 		color blanco
 		padding 13em 0 0 1em
-		img
-			height auto
-			max-width 390px
-			width 90%
 		h2
 			font-style italic
 			padding 0 0 -1em .5em
@@ -241,352 +247,329 @@ a
 		
 .Pre-footer
 	height auto
-	margin 0 auto
-	margin-bottom 1em
-	max-width 1000px
+	margin-bottom 2em
+	margin-top 4em
 	width 100%
 	.Redes-personales
-		display flex
-		display -webkit-flex
-		display -moz-flex
-		display -o-flex
-		display -ms-flex
-		-webkit-flex-direction row
-		-moz-flex-direction row
-		-o-flex-direction row
-		-ms-flex-direction row
-		-webkit-justify-content center
-		-moz-justify-content center
-		-o-justify-content center
-		-ms-justify-content center
-		list-style none
-		li
-			padding 0 1em 0 1em
-			
-
-/* ******************* RWD ****************** */
-
-@media screen and (min-width: 0px) and (max-width: 319px)
-	.Descripcion-seccion
-		width 93%
-	nav
-		margin 0
-		padding 0
-		ul
-			margin 0
-			padding 0
+		max-width 1000px
+		margin 0 auto
+		width 900%
+		ul 
+			margin-top 1em
+			text-align center
 			li
-				border-bottom solid 1px #2DA862
-				float none
-				display block
-				padding .3em 0 .3em .5em
+				display inline-block
+				list-style none
+				padding .5em 1em .5em 1em
+				vertical-align top
+			li:hover
+				-webkit-opacity 0.7
+				-moz-opacity 0.7
+				-o-opacity 0.7
+				-ms-opacity 0.7
+				opacity 0.7
+		
+@media screen and (min-width: 0px) and (max-width: 319px)
+	footer
+		p
+			text-align center
+	nav
+		ul
+			padding 0
+	nav
+		ul li
+			border-bottom solid 1px #2da862
+			display block
+			float none
+			text-align left
+			margin-bottom 0
+			padding .5em 0 .5em .5em
+	.Columnas-adiestramiento
+		margin-top -5em
+		width 98%
 	.Contenedor-columnas
-		display flex
-		flex-direction column
-		text-align center
-		margin 1em 0 0 0
-		padding 0
-		width 100%
-		.Col1
+		margin-top 2em
+		width 98%
+		.Cols
 			margin 0
 			padding 0
 			width 100%
-			a
-				.Boton-verMas
-					margin-bottom 2.5em
-			h2
-				margin 0
-				padding 0
-		.Col2
-			margin 0
-			padding 0
+			.Boton-verMas
+				margin-bottom 5em
+				margin-top .5em
+	.Contenedor-influencia
+		margin-top -2em
+		width 98%
+		.Influencias
+			li
+				h3
+					margin-bottom 3em				
+	.Forma
+		display none	
+	.Logo
+		h2
+			font-size 1.3em
+		img
+			height auto
+			max-width 390px
+			margin 9em 0 0 0 
 			width 100%
-			a
-				.Boton-verMas
-					margin-bottom 2.5em
-			h2
-				margin 0
-				padding 0
-		.Col3
-			margin 0
-			padding 0
-			width 100%
-			h2
-				margin 0
-				padding 0
-	.Imagen-principal 
-		.Logo
-			img
-				height auto
-				width 90%
-				
 	.Preheader
 		p
+			font-size 1.1em
+			line-height 1.8em
 			text-align left
-			line-height 1.4em
 			padding 0 0 0 .5em
 			
-	.Forma
-		margin 1.5em 0 0 0
-		
-	.Contenedor-influencia
-		margin-top 1.5em
-		h3
-			margin-bottom 3em
-	.Pre-footer
-		
 	.Logo-interno
-		text-align center
 		img
-			width 90%
+			height auto
+			width 100%
 			
 	.Contenedor-contenido
-		display flex
-		flex-direction column
-		aside
-			display none
-		.Contenido
-			width 100%
-			h2
-				padding-left .8em
-			img
-				height auto
-				width 100%
-			p
-				padding 0 1em
-
-@media screen and (min-width: 321px) and (max-width: 479px)
-	.Descripcion-seccion
-		width 93%
-	nav
-		margin 0
-		padding 0
-		ul
-			margin 0
-			padding 0
-			li
-				font-size 1.2em
-				border-bottom solid 1px #2DA862
-				float none
-				display block
-				padding .5em 0 .5em .5em
-	.Contenedor-columnas
-		display flex
-		flex-direction column
-		text-align center
-		margin 1em 0 0 0
-		padding 0
 		width 100%
-		.Col1
-			margin 0 0 1em 0
-			padding 0
-			width 100%
-			h2
-				margin 1em 0 .7em 0
-		.Col2
-			margin 0 0 1em 0
-			padding 0
-			width 100%
-			h2
-				margin 1em 0 .7em 0
-		.Col3
-			margin 0 0 1em 0
-			padding 0
-			width 100%
-			h2
-				margin 1em 0 .7em 0
-	.Contenedor-influencia
-		margin 4em 0 0 0
-		.Influencias
-			padding .5em 0 .5em 0
-			h3
-				margin 0 0 2.2em 0
-			img
-				height auto
-				width 90%
-	
-	.Preheader
-		p
-			text-align left
-			line-height 1.4em
-			padding 0 0 0 .5em			
-	
-	.Forma
-		margin .9em 0 0 0
-		
-	.Logo-interno
-		text-align center
-		img
-			width 90%
-			
-	.Contenedor-influencia
-		margin-top 1.5em
-		h3
-			margin-bottom 3em
-			
-	.Contenedor-contenido
-		display flex
-		flex-direction column
 		aside
 			display none
 		.Contenido
+			margin-bottom 3em
+			margin-top -1.5em
 			width 100%
 			h2
-				padding-left .8em
-			img
-				height auto
-				width 100%
+				margin-left .5em
 			p
-				padding 0 1em
+				margin 0 auto
+				width 95%
+			.Accesos-facebook
+				img
+					height auto
+					width 100%
+	.Descripcion-seccion
+		width 98%
 
-@media screen and (min-width: 481px) and (max-width: 759px)
+@media screen and (min-width: 320px) and (max-width: 479px)
+	footer
+		p
+			font-size 1.1em
+			text-align center
 	nav
-		margin 0
-		padding 0
 		ul
+			padding 0
+	nav
+		ul li
+			border-bottom solid 1px #2da862
+			display block
+			float none
+			text-align left
+			margin-bottom 0
+			padding .7em 0 .7em .5em
+	.Columnas-adiestramiento
+		margin-top -5em
+		width 90%
+	.Contenedor-columnas
+		margin-top 3em
+		width 98%
+		.Cols
 			margin 0
 			padding 0
-			li
-				padding .3em 0 .3em 1em
-	.Contenedor-columnas
-		.Col1
-			width 40%
-			img
-				height auto
-				max-width 101px
-				width 100%
-			a
-				.Boton-verMas
-					width 70%
-			h2
-				font-size 100%
-				margin 0 0 .5em 0
-		.Col2
-			width 40%
-			img
-				height auto
-				max-width 145px
-				width 100%
-			a
-				.Boton-verMas
-					width 70%
-			h2
-				font-size 100%
-				margin 0 0 .5em 0
-		.Col3
-			width 40%
-			img
-				height auto
-				max-width 101px
-				width 100%
-			a
-				.Boton-verMas
-					width 70%
-			h2
-				font-size 100%
-				margin 0 0 .5em 0
-				
+			width 100%
+			.Boton-verMas
+				margin-bottom 5em
+				margin-top .5em
 	.Contenedor-influencia
-		margin 2em 0 0 0
+		margin-bottom -2em
+		margin-top 2.5em
+		width 98%
+		h2
+			margin-bottom .8em
 		.Influencias
-			padding .5em 0 .5em 0
-			h3
-				margin 0 0 2.2em 0
-				
+			li
+				h3
+					font-size 1.5em
+					margin-bottom 3em				
+	.Forma
+		display none
+	.Logo
+		h2
+			font-size 1.3em
+		img
+			height auto
+			max-width 390px
+			margin 9em 0 0 0 
+			width 100%
 	.Preheader
 		p
+			font-size 1.1em
+			line-height 1.8em
 			text-align left
-			line-height 1.4em
-			padding 0 0 0 .5em		
-			
-
-	.Preheader
-		p
-			padding 0 0 0 1.3em		
-			
+			padding 0 0 0 .5em
 	.Logo-interno
 		text-align center
 		img
-			width 80%	
-	
+			height auto
+			width 80%			
 	.Contenedor-contenido
+		margin-top .3em
+		width 100%
 		aside
-			margin 0 .5em 0 .5em
+			display none
 			img
 				height auto
 				width 100%
 		.Contenido
-			width 80%
+			margin-bottom 3em
+			margin-top .5em
+			width 100%
 			h2
-				margin 0 0 .5em 0
-				padding-left .8em
-			img
-				height auto
-				max-width 391px
-				width 100%
+				margin-left .5em
 			p
-				padding 0 1em	
+				margin 0 auto
+				width 95%
+			.Accesos-facebook
+				img
+					height auto
+					width 86%
+	.Descripcion-seccion
+		width 98%
 
-@media screen and (min-width: 761px) and (max-width: 1019px)
+@media screen and (min-width: 480px) and (max-width: 759px)
+	footer
+		p
+			font-size 1.1em
+			text-align center
+	nav
+		ul
+			padding 0
+	nav
+		ul li
+			border-bottom solid 1px #2da862
+			display block
+			float none
+			text-align left
+			margin-bottom 0
+			padding .5em 0 .5em .5em
+	.Columnas-adiestramiento
+		margin-top -5em
+		width 90%
 	.Contenedor-columnas
-		.Col1
+		margin-top 3em
+		width 90%
+		.Cols
+			margin 0
+			padding 0
+			width 100%
+			.Boton-verMas
+				margin-bottom 5em
+				margin-top .5em
+	.Contenedor-influencia
+		margin-top 2em
+		width 60%
+		.Influencias
+			li
+				h3
+					margin-bottom 3em				
+	.Forma
+		display none
+	.Logo
+		h2
+			font-size 1.3em
+		img
+			height auto
+			max-width 390px
+			margin 9em 0 0 0 
+			width 100%
+	.Preheader
+		p
+			font-size 1.1em
+			line-height 1.8em
+			text-align left
+			padding 0 0 0 .5em
+			
+	.Logo-interno
+		text-align center
+		img
+			height auto
+			width 50%
+			
+	.Contenedor-contenido
+		width 100%
+		aside
+			display none
+		.Contenido
+			margin-bottom 3em
+			margin-top -1.5em
+			width 100%
 			h2
-				font-size .9em
-				margin -.3em 0 .7em 0
-			a
-				.Boton-verMas
+				margin-left .5em
+			p
+				margin 0 auto
+				width 95%
+			.Accesos-facebook
+				img
+					height auto
 					width 80%
-				
-		.Col2
+	.Descripcion-seccion
+		width 98%
+
+@media screen and (min-width: 760px) and (max-width: 1019px)
+	.Contenedor-columnas
+		.Cols
+			margin 0
+			margin 0 .7em 0 .7em
+			padding 0
+			width 30%
 			h2
-				font-size .9em
-				margin -.3em 0 .7em 0
-			a
-				.Boton-verMas
-					width 80%
+				font-size 1em
+			p
+				font-size .8em
+			.Btn-clientes-2
+				margin-top 1.4em
+	.Contenedor-influencia
+		.Influencias
+			h3
+				margin 0 0 4em 0
+	.Columnas-adiestramiento
+		width 80%		
+	.Forma
+		margin-top -4.5em		
+	.Logo
+		h2
+			font-size 1.3em
+		img
+			height auto
+			max-width 390px
+			margin 5em 0 0 0 
+			width 100%			
+	.Logo-interno
+		text-align center
+		img
+			height auto
+			width 40%
+			
+	.Contenedor-contenido
+		width 100%
+		aside
+			margin 0 1em 0 .5em
+		.Contenido
+			margin 0 0 0 5em
+			width 55%
+	.Descripcion-seccion
+		width 98%
+	
+	.Preheader
+		p
+			text-align left
+			padding 0 0 0 1em
 					
-		.Col3
-			h2
-				font-size .9em
-				margin -.3em 0 .7em 0
-			a
-				.Boton-verMas
-					width 80%
-	
-	.Contenedor-influencia
-		margin 2em 0 0 0
-		width 100%
-		.Influencias
-			padding 3em 0 .5em 0
-			h3
-				margin 0 0 3em 0
-			img
-				height auto
-				width 80%
-				
-	.Preheader
-		p
-			text-align left
-			padding 0 0 0 1.2em
-	.Descripcion-seccion
-		width 95%
-		
-
+@media screen and (min-width: 1020px)		
 	.Contenedor-contenido
+		width 100%
 		aside
-			margin 0 .5em 0 .5em
-			img
-				height auto
-				width 100%
+			margin 0 0 0 .5em
 		.Contenido
-			width 100%
-			h2
-				margin 0 0 .5em 0	
-				padding-left .8em
-			img
-				height auto
-				max-width 391px
-				width 100%
-			p
-				padding 0 1em
-/* ******************* RWD ****************** */
+			margin 0 0 0 3em
+			width 65%
+	.Descripcion-seccion
+		width 98%
+	
+	
+
