@@ -48,20 +48,12 @@
 						aceptando y en muchos casos justificando esta costumbre de sus 
 						queridos perros.
 					</p>
-
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 					
 					<p>
 						Gru&ntilde;en si los retan cuando muerden los zapatos, los 
 						pantalones, las manos, los brazos, o si se les quiere sacar 
 						algo que tomaron como propio.
 					</p>
-
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 					
 					<p>
 						Se vuelven posesivos y no permiten que se acerquen a sus 
@@ -71,10 +63,6 @@
 						del lugar en el que est&aacute;n.
 					</p>
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<p>
 						Desayunar, almorzar merendar o cenar se puede convertir en una 
 						pesadilla, imposible relajarse para hablar mientras se come, o 
@@ -82,10 +70,6 @@
 						que se desee. Hay que estar permanentemente atentos para impedir 
 						que el perro no se robe comida de la mesa.
 					</p>
-
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 
 					<p>
 						Hablar por tel&eacute;fono puede llegar a ser una misi&oacute;n 
@@ -97,9 +81,6 @@
 						sus ladridos.
 					</p>
 				</article>
-				<div class="Accesos-facebook">
-					<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-				</div> <!-- End of Accesos-facebook -->
 
 				<p>
 					Salir de nuestra propia casa puede ser una verdadera odisea, en el 
@@ -113,10 +94,6 @@
 					abrirla y escapar de nuestro hogar, para tomar distancia por unas 
 					horas de nuestro mejor amigo.
 				</p>
-
-				<div class="Accesos-facebook">
-					<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-				</div> <!-- End of Accesos-facebook -->
 
 				<p>
 					Para las personas que han vivido solas mucho tiempo con su querido 
@@ -135,10 +112,6 @@
 					gru&ntilde;ir en el caso que lo quieran sacar, o hacen sus necesidades 
 					en la cama del propietario.
 				</p>
-
-				<div class="Accesos-facebook">
-					<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-				</div> <!-- End of Accesos-facebook -->
 
 				<p>
 					Los perros humanizados acostumbrados a tener un lugar de privilegio 

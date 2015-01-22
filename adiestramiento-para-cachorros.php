@@ -14,7 +14,7 @@
 
 		<section class="Contenedor-adiestramiento">
 			<div class="Logo-interno">
-				<a href="#">
+				<a href="index.php">
 					<img src="img/logo-interno.jpg" alt="PeterScan">
 				</a>
 			</div> <!-- End of Logo-interno -->

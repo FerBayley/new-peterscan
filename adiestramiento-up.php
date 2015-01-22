@@ -14,7 +14,7 @@
 
 		<section class="Contenedor-adiestramiento">
 			<div class="Logo-interno">
-				<a href="#">
+				<a href="index.php">
 					<img src="img/logo-interno.jpg" alt="PeterScan">
 				</a>
 			</div> <!-- End of Logo-interno -->
@@ -39,10 +39,6 @@
 						fueran un hijo, un nieto, un sobrino, un hermano o un amigo del alma.
 					</p>
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<p>
 						Este lugar afectivo de los perros en la vida de las personas 
 						est&aacute; relacionado con diversas causas, por ejemplo: 
@@ -53,10 +49,6 @@
 						permiten moverse y desplazarse con autonom&iacute;a entre otros 
 						motivos.
 					</p>
-
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 
 					<p>
 						Cuando en el a&ntilde;o 1979 comenc&eacute; mi actividad como 
@@ -69,10 +61,6 @@
 						raza, el guardi&aacute;n de la casa.
 					</p>
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<p>
 						Los perros ten&iacute;an nombres afectivos diminutivos de series de 
 						TV o de dibujos animados ( Pluto, Colita, Lassie, Layka, 
@@ -80,10 +68,6 @@
 						al juego, a la infancia, a la aventura, o a la protecci&oacute;n 
 						que ellos brindaban).
 					</p>
-
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 
 					<p>
 						Finalizada la d&eacute;cada del 80 y a medida que trascurría la del 
@@ -96,10 +80,6 @@
 						m&aacute;s afectivo y acorde a la transformaci&oacute;n que se 
 						iba operando en esos a&ntilde;os.
 					</p>
-
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 
 					<p>
 						El trabajo de adiestramiento de cientos de perros a lo largo de 

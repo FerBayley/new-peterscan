@@ -46,11 +46,7 @@
 						esta informaci&oacute;n, nos permitir&aacute; saber si se 
 						adaptar&aacute; a nuestro estilo de vida y si podemos cubrir sus 
 						necesidades.
-					</p>					
-					
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt=""></a>
-					</div> <!-- End of Accesos-facebook -->		
+					</p>						
 
 					<p>
 						Una vez decidida la raza hay que determinar qu&eacute; cachorro, 
@@ -61,19 +57,11 @@
 						establece un comportamiento distinto dentro de una familia.
 					</p>	
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<p>
 						Es aconsejable que el cachorro pase los dos primeros meses de 
 						vida con su madre y hermanos para que pueda concretar la primera 
 						parte de socializaci&oacute;n con individuosde su misma especie.
 					</p>	
-
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 
 					<p>
 						En la segunda parte de la socializaci&oacute;n, es conveniente 
@@ -81,10 +69,6 @@
 						interact&uacute;a con otras especies de animales, con 
 						ni&ntilde;os y con adultos.
 					</p>	
-
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 
 					<p>
 						Muchas veces la elecci&oacute;n de la raza que nos gusta se 

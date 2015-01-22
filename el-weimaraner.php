@@ -32,15 +32,16 @@
 			<div class="Contenido">
 				<article>
 					<h2>El Weimaraner - CARACTERISTICAS</h2>
+
+					<div class="Accesos-facebook">
+						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
+					</div> <!-- End of Accesos-facebook -->
+
 					<p>
 						El Weimaraner es originalmente un poderoso perro de caza con un 
 						fuerte instinto de protecci&oacute;n, dotado de una r&aacute;pida 
 						inteligencia y abundante energ&iacute;a.
 					</p>
-
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 
 					<p>
 						Esta raza llena de encanto, cari&ntilde;osa, sensible, de mirada 
@@ -54,10 +55,6 @@
 						y divertido que se exprese y muestre lo que necesita, pero no a 
 						trav&eacute;s de conductas indeseables.
 					</p>
-
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 					
 					<h2>LA EDUCACION</h2>
 					<p>
@@ -69,15 +66,16 @@
 						respeto por sus necesidades vitales depender&aacute; su equilibrio 
 						psicol&oacute;gico y su felicidad.
 					</p>
-
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 					
 					<h2>
 						Algunos puntos sobresalientes en la educaci&oacute;n del Weimaraner 
 						son los siguientes:
 					</h2>
+
+					<div class="Accesos-facebook">
+						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
+					</div> <!-- End of Accesos-facebook -->
+					
 					<p>
 						Ense&ntilde;arle a una temprana que edad que la posici&oacute;n 
 						que ocupa en la jerarqu&iacute;a familiar es la &uacute;ltima. 
@@ -92,10 +90,6 @@
 						asegurarse una convivencia en armon&iacute;a.
 					</p>
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<p>
 						Es preciso ser claros en la comunicaci&oacute;n con &eacute;l. 
 						Capta perfectamente la no verbalidad de sus due&ntilde;os. Los 
@@ -109,10 +103,6 @@
 						refuerza. As&iacute; la orden verbal pierde fuerza
 					</p>
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<p>
 						Al Weimaraner, no le gusta quedarse solo durante todo el d&iacute;a 
 						y todos los d&iacute;as, pueden mostrar su desaprobaci&oacute;n 
@@ -122,9 +112,6 @@
 						caminar, correr y tener la mente ocupada para no aburrirse.
 					</p>
 				</article>
-				<div class="Accesos-facebook">
-					<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-				</div> <!-- End of Accesos-facebook -->
 
 				<h2>EL ADIESTRAMIENTO</h2>
 				<p>
@@ -138,10 +125,6 @@
 					de familia.
 				</p>
 
-				<div class="Accesos-facebook">
-					<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-				</div> <!-- End of Accesos-facebook -->
-
 				<p>
 					As&iacute; como el Weimaraner no es para todas las personas, tampoco 
 					puede ser entrenado por adiestradores que desconozcan sus 
@@ -149,10 +132,6 @@
 					captar la personalidad de cada individuo para lograr lo mejor de 
 					&eacute;l a trav&eacute;s del curso de adiestramiento.
 				</p>
-
-				<div class="Accesos-facebook">
-					<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-				</div> <!-- End of Accesos-facebook -->
 
 				<p>
 					Por &uacute;ltimo, lo m&aacute;s importante, es incorporar a los 
@@ -164,10 +143,6 @@
 					se producen, el perro se portar&aacute; bien y har&aacute; todos los 
 					ejercicios aprendidos &uacute;nicamente con el adiestrador.
 				</p>
-
-				<div class="Accesos-facebook">
-					<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-				</div> <!-- End of Accesos-facebook -->
 
 				<p>
 					Esta imagen habla por si misma, gracias Weimaraner por todo lo que 

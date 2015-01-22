@@ -66,10 +66,6 @@
 						esta nueva realidad.
 					</p>
 				</article>
-				<div class="Accesos-facebook">
-					<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-				</div> <!-- End of Accesos-facebook -->
-
 
 				<h2>OBEDIENCIA BASICA</h2>
 				<article>
@@ -88,9 +84,6 @@
 					conflictos o accidentes.
 					</p>
 				</article>
-				<div class="Accesos-facebook">
-					<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-				</div> <!-- End of Accesos-facebook -->
 
 				<h2>OBEDIENCIA AVANZADA</h2>
 				<article>
@@ -122,9 +115,6 @@
 						atento y en estado vigilante cuando entramos o salimos de la misma.
 					</p>
 				</article>
-				<div class="Accesos-facebook">
-					<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-				</div> <!-- End of Accesos-facebook -->
 
 				<h2>OBEDIENCIA PARA PERROS CON MIEDO AL AGUA</h2>
 				<article>
@@ -168,9 +158,6 @@
 						resolver el miedo al agua.
 					</p>
 				</article>
-				<div class="Accesos-facebook">
-					<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-				</div> <!-- End of Accesos-facebook -->
 
 				<h2>OBEDIENCIA PARA PERROS EFUSIVOS EN EL AGUA</h2>
 				<article>
@@ -209,9 +196,6 @@
 						de la piscina.
 					</p>
 				</article>
-				<div class="Accesos-facebook">
-					<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-				</div> <!-- End of Accesos-facebook -->
 
 				<h2>OBEDIENCIA PARA PERROS CON MIEDO A LOS RUIDOS</h2>
 				<article>
@@ -248,10 +232,12 @@
 						en muchos casos el resultado no alcanza la totalidad de los 
 						objetivos esperados.
 					</p>
+
+					<div class="Accesos-facebook">
+						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
+					</div> <!-- End of Accesos-facebook -->
 				</article>
-				<div class="Accesos-facebook">
-					<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-				</div> <!-- End of Accesos-facebook -->
+
 			</div> <!-- End of Contenido -->
 		</section> <!-- End of Contenedor-contenido -->
 

@@ -74,11 +74,11 @@
 						perro, ayudar&aacute; mucho en esta primera etapa de 
 						relaci&oacute;n.
 					</p>
-
+					
 					<div class="Accesos-facebook">
 						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
 					</div> <!-- End of Accesos-facebook -->
-					
+
 					<p>
 						La compa&ntilde;&iacute;a de un perro a medida que el beb&eacute; 
 						crece, le permitir&aacute; investigar con todos sus sentidos, 
@@ -94,10 +94,6 @@
 						los ojos, la orejas y morderlo
 					</p>
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<p>
 						Cuando el beb&eacute; ya camina y se traslada solo de un lugar a 
 						otro de la casa, establecer&aacute; una relaci&oacute;n de 
@@ -106,10 +102,6 @@
 						&eacute;ste le proporcionar&aacute; compa&ntilde;&iacute;a, 
 						compartiendo juguetes, juegos y travesuras.
 					</p>
-
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 
 					<h2>INFANCIA</h2>
 
@@ -123,10 +115,12 @@
 						con el perro m&aacute;s cercano sentir&aacute; el v&iacute;nculo 
 						afectivo.
 					</p>
+
+					<div class="Accesos-facebook">
+						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
+					</div> <!-- End of Accesos-facebook -->
+
 				</article>
-				<div class="Accesos-facebook">
-					<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-				</div> <!-- End of Accesos-facebook -->
 
 				<p>
 					Para los chicos en edad escolar es un momento apropiado para 
@@ -143,10 +137,6 @@
 					responsabilidad resultando ser un aprendizaje compartido, por parte 
 					del ni&ntilde;o y su perro.
 				</p>
-
-				<div class="Accesos-facebook">
-					<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-				</div> <!-- End of Accesos-facebook -->
 
 				<h2>ADOLESCENCIA</h2>
 
@@ -174,10 +164,6 @@
 					desarrollo como persona.
 				</p>
 
-				<div class="Accesos-facebook">
-					<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-				</div> <!-- End of Accesos-facebook -->
-
 				<h2>ADULTOS</h2>
 
 				<p>
@@ -191,10 +177,6 @@
 					adulta ya que ayuda a la salud física previniendo enfermedades y 
 					mejorando la calidad de vida.
 				</p>
-
-				<div class="Accesos-facebook">
-					<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-				</div> <!-- End of Accesos-facebook -->
 
 				<h2>ADULTOS MAYORES</h2>
 
