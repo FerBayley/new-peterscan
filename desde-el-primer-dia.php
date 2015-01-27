@@ -46,11 +46,7 @@
 						Qu&eacute; lugares de la casa son los m&aacute;s convenientes 
 						para que el cachorro duerma y se alimente.
 					</p>					
-					
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->		
-
+				
 					<h2>COMO PRESERVAR LA HIGIENE EN EL HOGAR</h2>
 
 					<p>
@@ -59,10 +55,6 @@
 						de la casa.
 					</p>	
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<h2>POR QUE MUERDEN DISTINTOS LUGARES DEL CUERPO Y LA ROPA</h2>
 
 					<p>
@@ -70,19 +62,11 @@
 						a que deje de hacerlo.
 					</p>	
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<h2>LOS MIEDOS</h2>
 
 					<p>
 						C&oacute;mo actuar ante los distintos miedos de los cachorros.
 					</p>	
-
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 
 					<h2>VENTAJAS Y DESVENTAJAS DE LOS PERROS HUMANIZADOS</h2>
 
@@ -91,20 +75,12 @@
 						que es un perro.
 					</p>
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<h2>PERSONALIDAD DEL CACHORRO</h2>
 
 					<p>
 						Qu&eacute; educaci&oacute;n y adiestramiento necesita el cachorro 
 						dominante, sumiso o independiente.
 					</p>
-
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 
 					<h2>
 						LOS LUGARES APROPIADOS DE LA CASA PARA LOS PRIMEROS JUEGOS Y 
@@ -115,10 +91,6 @@
 						Los lugares de la casa para ense&ntilde;arle jugando al cachorro.
 					</p>
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<h2>JERARQUIA FAMILIAR</h2>
 
 					<p>
@@ -126,19 +98,12 @@
 						jerarqu&iacute;a familiar.
 					</p>
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<h2>EL VINCULO CON LOS BEBES Y LOS NI&Ntilde;OS</h2>
 
 					<p>
 						C&oacute;mo ense&ntildE;arle a relacionarse con los beb&eacute;s 
 						y los ni&ntilde;os sin riesgos.
 					</p>
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 
 					<h2>LA NO VERBALIDAD</h2>
 
@@ -147,20 +112,12 @@
 						comportamiento del cachorro.
 					</p>
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<h2>QUEDARSE SOLO EN LA CASA</h2>
 
 					<p>
 						C&oacute;mo lograr que en nuestra ausencia no a&uacute;lle ni 
 						destruya.
 					</p>
-
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 
 					<h2>LAPRIMERA SALIDA A LA CALLE</h2>
 
@@ -169,10 +126,6 @@
 						ni&ntilde;os, perros y hacer sus necesidades en el lugar apropiado.
 					</p>
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<h2>CONDUCTAS DESTRUCTIVAS</h2>
 
 					<p>
@@ -180,21 +133,12 @@
 						c&oacute;mo resolverlo.
 					</p>
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
-
 					<h2>VIAJAR EN AUTO</h2>
 
 					<p>
 						Qu&eacute; debe aprender para viajar en auto sin riegos para 
 						&eacute;l y los dem&aacute;s ocupantes.
 					</p>
-
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 
 					<h2>LA LLEGADA DE UN SEGUNDO CACHORRO AL HOGAR</h2>
 

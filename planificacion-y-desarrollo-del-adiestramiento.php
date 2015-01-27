@@ -45,11 +45,7 @@
 						cuenta las caracter&aicute;sticas particulares del cachorro, 
 						la raza, si hay beb&eacute;s o ni&ntilde;os en la familia, y 
 						las necesidades de sus propietarios.
-					</p>					
-					
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->		
+					</p>						
 
 					<p>
 						En este primer encuentro y durante el transcurso de toda la 
@@ -57,10 +53,6 @@
 						informaci&oacute;n sobre sus necesidades y educaci&oacute;n, 
 						que acompa&ntilde;a y complementa al adiestramiento.
 					</p>	
-
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 
 					<p>
 						La planificaci&oacute;n consiste en establecer el tiempo del 
@@ -71,19 +63,11 @@
 						del adiestramiento.
 					</p>	
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<p>
 						Trabajo en forma personalizada, detectando las necesidades de 
 						cada uno de los integrantes de la familia y su conexi&oacute;n 
 						con el cachorro, logrando que obedezca las &oacute;rdenes dadas.
 					</p>	
-
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 
 					<p>
 						Mi tarea consiste en asesorar, ense&ntilde;ar y transmitir que 

@@ -49,20 +49,12 @@
 						necesidades vitales y comprender el comportamiento normal 
 						del cachorro en las distintas etapas de su desarrollo.
 					</p>					
-					
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->		
 
 					<p>
 						Para que crezca con confianza es conveniente estimularlo con 
 						caricias f&iacute;sicas y verbales, protegi&eacute;ndolo ante 
 						cualquier situaci&oacute;n que le genere miedo.
 					</p>	
-
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 
 					<p>
 						Es conveniente comenzar a educar al nuevo integrante de la familia 
@@ -75,10 +67,6 @@
 						escucharlo aullar cuando sea grande y no quiera estar solo.
 					</p>	
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<p>
 						En este periodo hay que tener en cuenta la tensi&oacute;n 
 						emocional (stress) que le genera a un cachorro el cambio de 
@@ -89,10 +77,6 @@
 						y los hermanos, que deben ser reemplazados por la seguridad que 
 						nosotros le hagamos sentir.
 					</p>	
-
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 
 					<p>
 						Deberemos ayudarlo a superar los miedos (a la oscuridad, al 
@@ -107,10 +91,6 @@
 						familia un &#34;cachorro&#34; humano.
 					</p>
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<p>
 						Es necesario ser claros en la comunicaci&oacute;n con nuestro 
 						perro. Ellos captan perfectamente la no verbalidad de sus 
@@ -124,10 +104,6 @@
 						pierde fuerza
 					</p>
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<p>
 						Es conveniente que el grupo familiar tenga una idea formada sobre 
 						las normas que desea ense&ntilde;arle al cachorro, para no 
@@ -139,10 +115,6 @@
 						determinado rol.
 					</p>
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<p>
 						Mi tarea consiste en asesorar sobre las conductas de los cachorros 
 						que viven en un ambiente humano. El comportamiento de los 
@@ -153,6 +125,10 @@
 						sobre todo si vive en una familia numerosa, es lo que tenemos 
 						que tener en cuenta a la hora de educarlo y adiestrarlo.
 					</p>
+
+					<div class="Accesos-facebook">
+						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
+					</div> <!-- End of Accesos-facebook -->
 				</article>
 			</div> <!-- End of Contenido -->
 		</section> <!-- End of Contenedor-contenido -->

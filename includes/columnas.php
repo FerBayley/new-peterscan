@@ -1,7 +1,9 @@
 <section class="Contenedor-columnas">
 	<div class="Cols">
 		<h2>ADIESTRAMIENTO</h2>
-		<img src="img/adiestramiento.jpg" width="101" height="128" alt="Adiestramiento canino">
+		<div class="Circulo">
+			<img src="img/adiestramiento-fig.jpg" width="200" height="200" alt="Adiestramiento canino">
+		</div> <!-- End of Circulo -->
 		<article>
 			<p>
 				El adiestramiento que realizo posibilita que los perros aprendan con 
@@ -18,7 +20,9 @@
 
 	<div class="Cols">
 		<h2>TODO SOBRE CACHORROS</h2>
-		<img src="img/cachorros.jpg" width="164" height="128" alt="Cachorros">
+		<div class="Circulo">
+			<img src="img/cachorros-fig.jpg" width="200" height="200" alt="Cachorros">
+		</div> <!-- End of Circulo -->
 			<article>
 				<p>
 					Antes de comprar el cachorro que nos gusta, es preciso informarse 
@@ -36,7 +40,9 @@
 
 	<div class="Cols">
 		<h2>MIS CLIENTES</h2>
-		<img src="img/clientes.jpg" width="134" height="128" alt="Mis clientes">
+		<div class="Circulo">
+			<img src="img/clientes-fig.jpg" width="200" height="200" alt="Mis clientes">
+		</div> <!-- End of Circulo -->
 			<article>
 				<p>
 					Gracias a todos por permitirme ser parte de la educaci&oacute;n y el 
