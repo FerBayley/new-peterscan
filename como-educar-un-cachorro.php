@@ -31,7 +31,7 @@
 					<li><span>COMO EDUCAR A UN CACHORRO SEGUN SUS CARACTERISTICAS Y NECESIDADES</span></li>
 					<li><a href="desde-el-primer-dia.php">QUE ENSE&Ntilde;ARLES DESDE EL PRIMER DIA EN NUESTRO HOGAR</a></li>
 					<li><a href="planificacion-y-desarrollo-del-adiestramiento.php">PLANIFICACION DEL ADIESTRAMEINTO</a></li>
-					<li><a href="adiestramiento.php">ADIESTRAMIENTO</a></li>
+					<li><a href="adiestramiento-para-cachorros.php">ADIESTRAMIENTO</a></li>
 					<li><a href="http://www.peterscan.com.ar/clientes/" target="_blank">MIS CLIENTES PRACTICANDO EJERCICIOS DE OBEDIENCIA CON SUS PERROS</a></li>
 				</ul>
 			</aside> <!-- End of aside -->
@@ -127,7 +127,9 @@
 					</p>
 
 					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
+						<a href="https://www.facebook.com/media/set/?set=a.826809777377672.1073741829.193071660751490&type=3&uploaded=14" target="_blank">
+							<img src="img/ver-mas.jpg" alt="ver mas">
+						</a>
 					</div> <!-- End of Accesos-facebook -->
 				</article>
 			</div> <!-- End of Contenido -->

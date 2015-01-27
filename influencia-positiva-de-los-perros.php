@@ -56,10 +56,6 @@
 						prenatal cuando estaba a&uacute;n por nacer.
 					</p>
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<h2>EL BEBE</h2>
 					
 					<p>
@@ -74,10 +70,6 @@
 						perro, ayudar&aacute; mucho en esta primera etapa de 
 						relaci&oacute;n.
 					</p>
-					
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 
 					<p>
 						La compa&ntilde;&iacute;a de un perro a medida que el beb&eacute; 
@@ -116,10 +108,6 @@
 						afectivo.
 					</p>
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 				</article>
 
 				<p>
@@ -147,10 +135,6 @@
 					conect&aacute;ndolo con el afecto sin temor, lo cual es sumamente 
 					positivo para &eacute;l.
 				</p>
-
-				<div class="Accesos-facebook">
-					<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-				</div> <!-- End of Accesos-facebook -->
 
 				<h2>JUVENTUD</h2>
 
@@ -199,7 +183,9 @@
 				</p>
 
 				<div class="Accesos-facebook">
-					<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
+					<a href="https://www.facebook.com/media/set/?set=a.826877247370925.1073741836.193071660751490&type=3&uploaded=21" target="_blank">
+						<img src="img/ver-mas.jpg" alt="ver mas">
+					</a>
 				</div> <!-- End of Accesos-facebook -->
 				
 			</div> <!-- End of Contenido -->

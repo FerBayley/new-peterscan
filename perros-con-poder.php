@@ -36,10 +36,6 @@
 						SUS DUE&Ntilde;OS
 					</h2>
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<p>
 						Destruyen objetos, ropa y plantas y se asignan un sill&oacute;n o 
 						una cama para dormir o simplemente para descansar o estar 
@@ -121,6 +117,11 @@
 					Este poder, no nace con los perros, lo van adquiriendo a medida que 
 					crecen y son sus propietarios quienes se lo adjudican.
 				</p>
+				<div class="Accesos-facebook">
+					<a href="https://www.facebook.com/media/set/?set=a.826874537371196.1073741835.193071660751490&type=3&uploaded=16" target="_blank">
+						<img src="img/ver-mas.jpg" alt="ver mas">
+					</a>
+				</div> <!-- End of Accesos-facebook -->
 			</div> <!-- End of Contenido -->
 		</section> <!-- End of Contenedor-contenido -->
 

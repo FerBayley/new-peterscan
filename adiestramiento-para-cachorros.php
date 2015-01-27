@@ -31,7 +31,7 @@
 					<li><a href="como-educar-a-un-cachorro.php">COMO EDUCAR A UN CACHORRO SEGUN SUS CARACTERISTICAS Y NECESIDADES</a></li>
 					<li><a href="desde-el-primer-dia.php">QUE ENSE&Ntilde;ARLES DESDE EL PRIMER DIA EN NUESTRO HOGAR</a></li>
 					<li><a href="planificacion-y-desarrollo-del-adiestramiento.php">PLANIFICACION DEL ADIESTRAMEINTO</a></li>
-					<li><ADIESTRAMIENTO</li>
+					<li><span>ADIESTRAMIENTO</span></li>
 					<li><a href="http://www.peterscan.com.ar/clientes/">MIS CLIENTES PRACTICANDO EJERCICIOS DE OBEDIENCIA CON SUS PERROS</a></li>
 				</ul>
 			</aside> <!-- End of aside -->
@@ -59,11 +59,7 @@
 						Aprender a controlarlo mediante distintas &oacute;rdenes brinda 
 						tranquilidad a sus due&ntilde;os y les permite vincularse con 
 						mayor confianza y soltura.
-					</p>
-					
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->		
+					</p>	
 
 					<h2>PASEAR SIN DIFICULTA</h2>
 					<p>
@@ -73,10 +69,6 @@
 						A trav&eacute;s del adiestramiento aprende a acompa&ntilde;arnos 
 						sin dificultad en los paseos.
 					</p>	
-
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 
 					<h2>RELACIONARSE SIN RIESGOS CON LOS CHICOS</h2>
 
@@ -89,10 +81,6 @@
 						ni&ntilde;os se les acerquen sin temores.
 					</p>	
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<h2>DESAYUNAR, ALMORZAR O CENAR SIN QUE MOLESTE</h2>
 
 					<p>
@@ -104,10 +92,6 @@
 						merienda, almuerzo o cena sin molestar.
 					</p>	
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<h2>NO MORDER LAS MANOS Y LA ROPA</h2>
 
 					<p>
@@ -118,10 +102,6 @@
 						Con el trabajo de adiestramiento aprende a comunicarse y jugar 
 						con las personas sin rasgu&ntilde;ar y sin morder.
 					</p>
-
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 
 					<h2>NO DESTRUIR OBJETOS Y MUEBLES</h2>
 
@@ -143,10 +123,6 @@
 						presente para darle la orden de no hacerlo.
 					</p>
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<h2>NO ESCAPARSE, Y VENIR CUANDO LO LLAMAMOS</h2>
 
 					<p>
@@ -157,10 +133,6 @@
 						logra que aprenda a ser obediente a las &oacute;rdenes verbales 
 						cuando est&aacute; suelto.
 					</p>
-
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
 
 
 					<h2>NO INGERIR BASURA O ALIMENTOS EN MAL ESTADO</h2>
@@ -174,10 +146,6 @@
 						calle, y a dejarlo si es que ya lo ha tomado.
 					</p>
 
-					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<p>
 						Es muy importante que los due&ntilde;os se contacten con los 
 						ejercicios aprendidos por el cachorro. Esto le permitir&aacute; 
@@ -187,6 +155,11 @@
 						impartidas por el adiestrador, desvirtu&aacute;ndose el resultado 
 						del adiestramiento.
 					</p>
+					<div class="Accesos-facebook">
+						<a href="https://www.facebook.com/media/set/?set=a.826823304042986.1073741832.193071660751490&type=3&uploaded=16" target="_blank">
+							<img src="img/ver-mas.jpg" alt="ver mas">
+						</a>
+					</div> <!-- End of Accesos-facebook -->
 				</article>
 			</div> <!-- End of Contenido -->
 		</section> <!-- End of Contenedor-contenido -->

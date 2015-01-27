@@ -52,7 +52,9 @@
 					</p>					
 					
 					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
+						<a href="https://www.facebook.com/media/set/?set=a.826878954037421.1073741837.193071660751490&type=3&uploaded=3" target="_blank">
+							<img src="img/ver-mas.jpg" alt="ver mas">
+						</a>
 					</div> <!-- End of Accesos-facebook -->					
 				</article>
 			</div> <!-- End of Contenido -->
