@@ -32,22 +32,17 @@
 					<li><span>QUE ENSE&Ntilde;ARLES DESDE EL PRIMER DIA EN NUESTRO HOGAR</span></li>
 					<li><a href="planificacion-y-desarrollo-del-adiestramiento.php">PLANIFICACION DEL ADIESTRAMEINTO</a></li>
 					<li><a href="adiestramiento-para-cachorros.php">ADIESTRAMIENTO</a></li>
-					<li><a href="http://www.peterscan.com.ar/clientes/" target="_blank">MIS CLIENTES PRACTICANDO EJERCICIOS DE OBEDIENCIA CON SUS PERROS</a></li>
 				</ul>
 			</aside> <!-- End of aside -->
 
 			<div class="Contenido">
 				<article>
-					<h2>QUE ENSEÑARLES DESDE EL PRIMER DIA</h2>
-
-					<h2>LA ELECCION DEL LUGAR PARA QUE DUERMA Y SE ALIMENTE</h2>
+					<h2>QUE ENSE&Ntilde;ARLES DESDE EL PRIMER DIA</h2>
 
 					<p>
 						Qu&eacute; lugares de la casa son los m&aacute;s convenientes 
 						para que el cachorro duerma y se alimente.
 					</p>					
-				
-					<h2>COMO PRESERVAR LA HIGIENE EN EL HOGAR</h2>
 
 					<p>
 						C&oacute;mo ense&ntilde;arle a hacer sus deposiciones en sitio 
@@ -55,92 +50,63 @@
 						de la casa.
 					</p>	
 
-					<h2>POR QUE MUERDEN DISTINTOS LUGARES DEL CUERPO Y LA ROPA</h2>
-
 					<p>
 						Motivos por los cuales el cachorro muerde y como ense&ntilde;arle 
 						a que deje de hacerlo.
 					</p>	
 
-					<h2>LOS MIEDOS</h2>
-
 					<p>
 						C&oacute;mo actuar ante los distintos miedos de los cachorros.
 					</p>	
-
-					<h2>VENTAJAS Y DESVENTAJAS DE LOS PERROS HUMANIZADOS</h2>
 
 					<p>
 						C&oacute;mo educar y disfrutar nuestro cachorro sin olvidarnos 
 						que es un perro.
 					</p>
 
-					<h2>PERSONALIDAD DEL CACHORRO</h2>
-
 					<p>
 						Qu&eacute; educaci&oacute;n y adiestramiento necesita el cachorro 
 						dominante, sumiso o independiente.
 					</p>
 
-					<h2>
-						LOS LUGARES APROPIADOS DE LA CASA PARA LOS PRIMEROS JUEGOS Y 
-					    ENSE&Ntilde;ANZAS
-					</h2>
-
 					<p>
 						Los lugares de la casa para ense&ntilde;arle jugando al cachorro.
 					</p>
-
-					<h2>JERARQUIA FAMILIAR</h2>
 
 					<p>
 						Qu&eacute; lugar le corresponde ocupar al cachorro dentro de la 
 						jerarqu&iacute;a familiar.
 					</p>
 
-					<h2>EL VINCULO CON LOS BEBES Y LOS NI&Ntilde;OS</h2>
-
 					<p>
 						C&oacute;mo ense&ntildE;arle a relacionarse con los beb&eacute;s 
 						y los ni&ntilde;os sin riesgos.
 					</p>
-
-					<h2>LA NO VERBALIDAD</h2>
 
 					<p>
 						C&oacute;mo influye la no verbalidad de sus due&ntilde;os en el 
 						comportamiento del cachorro.
 					</p>
 
-					<h2>QUEDARSE SOLO EN LA CASA</h2>
-
 					<p>
 						C&oacute;mo lograr que en nuestra ausencia no a&uacute;lle ni 
 						destruya.
 					</p>
-
-					<h2>LAPRIMERA SALIDA A LA CALLE</h2>
 
 					<p>
 						De qu&eacute; manera le ense&ntilde;amos a relacionarse con personas, 
 						ni&ntilde;os, perros y hacer sus necesidades en el lugar apropiado.
 					</p>
 
-					<h2>CONDUCTAS DESTRUCTIVAS</h2>
-
 					<p>
 						Motivos por los que destruye objetos, plantas, muebles, ropa y 
 						c&oacute;mo resolverlo.
 					</p>
 
-					<h2>VIAJAR EN AUTO</h2>
-
 					<p>
 						Qu&eacute; debe aprender para viajar en auto sin riegos para 
 						&eacute;l y los dem&aacute;s ocupantes.
 					</p>
-
-					<h2>LA LLEGADA DE UN SEGUNDO CACHORRO AL HOGAR</h2>
 
 					<p>
 						Qu&eacute; debemos saber para lograr que el nuevo integrante sea 

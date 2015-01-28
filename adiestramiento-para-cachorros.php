@@ -32,7 +32,6 @@
 					<li><a href="desde-el-primer-dia.php">QUE ENSE&Ntilde;ARLES DESDE EL PRIMER DIA EN NUESTRO HOGAR</a></li>
 					<li><a href="planificacion-y-desarrollo-del-adiestramiento.php">PLANIFICACION DEL ADIESTRAMEINTO</a></li>
 					<li><span>ADIESTRAMIENTO</span></li>
-					<li><a href="http://www.peterscan.com.ar/clientes/">MIS CLIENTES PRACTICANDO EJERCICIOS DE OBEDIENCIA CON SUS PERROS</a></li>
 				</ul>
 			</aside> <!-- End of aside -->
 
