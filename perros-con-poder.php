@@ -62,7 +62,7 @@
 					<p>
 						Desayunar, almorzar merendar o cenar se puede convertir en una 
 						pesadilla, imposible relajarse para hablar mientras se come, o 
-						se mira una película y mucho menos, hacer una sobremesa el tiempo 
+						se mira una pel&iacute;cula y mucho menos, hacer una sobremesa el tiempo 
 						que se desee. Hay que estar permanentemente atentos para impedir 
 						que el perro no se robe comida de la mesa.
 					</p>
@@ -71,7 +71,7 @@
 						Hablar por tel&eacute;fono puede llegar a ser una misi&oacute;n 
 						imposible, el perro comienza a ladrar apenas escucha el sonido 
 						del tel&eacute;fono impidiendo que se pueda mantener una 
-						comunicac&oacute;n normal. Finalmente su propietario termina 
+						comunicac&iacute;n normal. Finalmente su propietario termina 
 						hablando a los gritos en medio de los ladridos, o se escapa y 
 						se recluye en otro ambiente en el cual no llegue el perro ni 
 						sus ladridos.

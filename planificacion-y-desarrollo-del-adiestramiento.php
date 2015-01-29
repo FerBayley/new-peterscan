@@ -42,7 +42,7 @@
 
 					<p>
 						En una primera entrevista planifico el adiestramiento, teniendo en 
-						cuenta las caracter&aicute;sticas particulares del cachorro, 
+						cuenta las caracter&iacute;sticas particulares del cachorro, 
 						la raza, si hay beb&eacute;s o ni&ntilde;os en la familia, y 
 						las necesidades de sus propietarios.
 					</p>						

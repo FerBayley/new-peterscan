@@ -38,7 +38,7 @@
 						y las necesidades de sus propietarios. Esta planificaci&oacute;n 
 						consiste en establecer el tiempo del adiestramiento, la 
 						duraci&oacute;n y la cantidad de clases por semana, los lugares 
-						donde el perro aprende&aacute; los ejercicios de Obediencia y 
+						donde el perro aprend&aacute; los ejercicios de Obediencia y 
 						c&oacute;mo ser&aacute; la participaci&oacute;n de los 
 						due&ntilde;os en la pr&aacute;ctica del adiestramiento.
 					</p>
@@ -77,11 +77,12 @@
 						detenernos. 
 						Acompa&ntilde;arnos en nuestros paseos sin que esto sea 
 						dificultoso. Quedarse a nuestro lado sin saltarnos cuando estamos 
-						con un bebe. Permanecer quieto mientras manejamos.No saltar sobre 
+						con un bebe. Permanecer quieto mientras manejamos. No saltar sobre 
 						la gente en fiestas o reuniones familiares.
 					</p>
-					<p>Relacionarse con ni&ntilde;os y perros sin que se produzcan 
-					conflictos o accidentes.
+					<p>
+						Relacionarse con ni&ntilde;os y perros sin que se produzcan 
+						conflictos o accidentes.
 					</p>
 				</article>
 
@@ -107,7 +108,7 @@
 					</p>
 					<p>
 						Dejarlo en el auto esper&aacute;ndonos y que permanezca 
-						tranquilo all&iacute; hasta que regresemos.Quedarse junto a 
+						tranquilo all&iacute; hasta que regresemos. Quedarse junto a 
 						nuestras pertenencias en los lugares p&uacute;blicos sin escaparse.
 					</p>
 					<p>
@@ -149,7 +150,7 @@
 						junto a &eacute;l. 
 						En esta etapa del adiestramiento, el perro ya no tiene miedo y 
 						empieza a disfrutar del agua y de nadar junto a su propietario. 
-						En este &uaucte;ltima etapa del adiestramiento, el perro logra 
+						En este &uacute;ltima etapa del adiestramiento, el perro logra 
 						zambullirse y nadar solo.
 					</p>
 					<p>
@@ -179,8 +180,9 @@
 						piscina, lo que sucede es que tienen la necesidad imperiosa de 
 						sacarnos del agua por que creen que estamos en peligro.
 					</p>
-					<p>El motivo de esta actitud en algunos perros, es debido a que 
-					tienen en su bagaje gen&eacute;tico la impronta de rescate.
+					<p>
+						El motivo de esta actitud en algunos perros, es debido a que 
+						tienen en su bagaje gen&eacute;tico la impronta de rescate.
 					</p>
 					<p>
 						Mante esta cualidad, lo conveniente es no censurarlo, sino 
@@ -192,7 +194,7 @@
 					<p>
 						El aprendizaje que realiza el perro en la piscina y su entorno 
 						permite a sus propietarios disfrutar de su compa&ntilde;&iacute;a
-						y del agua. Por &uaucte;ltimo, aprende a entrar, nadar y salir 
+						y del agua. Por &uacute;ltimo, aprende a entrar, nadar y salir 
 						de la piscina.
 					</p>
 				</article>
@@ -209,7 +211,7 @@
 						Ante una situaci&oacute;n de p&aacute;nico generada por un 
 						ruido, los perros tienden a escaparse del lugar, muchos son 
 						atropellados por un auto o se pierden por este motivo, se 
-						paralizan, a&uaucte;llan, tiemblan o se ponen en dos patas sobre 
+						paralizan, &aacute;llan, tiemblan o se ponen en dos patas sobre 
 						un &aacute;rbol o pared como buscando una puerta virtual que les 
 						permita alejarse del lugar.
 					</p>
@@ -219,7 +221,7 @@
 						los ruidos.
 					</p>
 					<p>
-						IDENTIFICANDO los ruidos que lo perturban.Estableciendo una 
+						IDENTIFICANDO los ruidos que lo perturban. Estableciendo una 
 						ESTRATEGIA de TRABAJO de acuerdo a la raza, edad y medio ambiente 
 						familiar.
 					</p>
@@ -227,7 +229,7 @@
 						PLANIFICANDO LOS EJERCICIOS de ADIESTRAMIENTO en 
 						Socializaci&oacute;n y Obediencia, que permitan resolver esta 
 						conducta problem&aacute;tica. 
-						TENIENDO MUCHA PACIENCIA no es f&aacute;cil la reeducac&oacute;n 
+						TENIENDO MUCHA PACIENCIA no es f&aacute;cil la reducac&oacute;n 
 						y el adiestramiento de un perro con estas caracter&iacute;sticas, 
 						en muchos casos el resultado no alcanza la totalidad de los 
 						objetivos esperados.

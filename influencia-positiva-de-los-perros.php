@@ -77,12 +77,12 @@
 						toc&aacute;ndolo, oli&eacute;ndolo, acarici&aacute;ndolo como 
 						si fuera un juguete, pero a diferencia de un objeto, el perro se 
 						transformar&aacute; en un juguete viviente que responder&aacute; 
-						a la interacci&oacute;n del beb&eacute; con &eacute;l.En este 
+						a la interacci&oacute;n del beb&eacute; con &eacute;l. En este 
 						per&iacute;odo es importante que los padres sepan c&oacute;mo 
 						ense&ntilde;arle al perro a no ser brusco con el peque&ntilde;o, 
 						dado que a&uacute;n el beb&eacute; no sabe regular sus movimientos 
 						y l&iacute;mites ni puede comprender el riesgo que significa, 
-						por ejemplo, introducir sus deditos en la boca del perro,tocarle 
+						por ejemplo, introducir sus deditos en la boca del perro, tocarle 
 						los ojos, la orejas y morderlo
 					</p>
 
@@ -131,7 +131,7 @@
 				<p>
 					En esta etapa de la vida muchas veces conflictiva donde la afectividad 
 					es sumamente l&aacute;bil y sienten que nadie los comprende, su 
-					perro ser&aacute; un aliado, le ofrecer&aacute; compa&ntildE;&iacute;a 
+					perro ser&aacute; un aliado, le ofrecer&aacute; compania 
 					conect&aacute;ndolo con el afecto sin temor, lo cual es sumamente 
 					positivo para &eacute;l.
 				</p>
@@ -171,7 +171,7 @@
 					relaci&oacute;n facilita la conversaci&oacute;n y hacer amigos. 
 					&#34;Por la calle, me daba mucho orgullo que la gente se paraba, 
 					preguntaban si era un peluche o un perrito de verdad. 
-					Un d&iacute;a cont&eacute;, en una cuadra, &#33;seis&#33; personas 
+					Un d&iacute;a cont&eacute;, en una cuadra, "seis" personas 
 					de las m&aacute;s variadas edades y condiciones, que adem&aacute;s 
 					de admirarla se detuvieron a conversar&#33;, este testimonio ilustra 
 					el sentir de una persona de esta etapa de la vida. El beneficio 

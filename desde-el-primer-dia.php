@@ -79,7 +79,7 @@
 					</p>
 
 					<p>
-						C&oacute;mo ense&ntildE;arle a relacionarse con los beb&eacute;s 
+						C&oacute;mo ense&ntilde;arle a relacionarse con los beb&eacute;s 
 						y los ni&ntilde;os sin riesgos.
 					</p>
 

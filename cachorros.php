@@ -71,7 +71,7 @@
 
 					<p>
 						Muchas veces la elecci&oacute;n de la raza que nos gusta se 
-						realiza sin informaci&oacvute;n previa o desde el coraz&oacute;n, 
+						realiza sin informaci&oacute;n previa o desde el coraz&oacute;n, 
 						privilegiando &uacute;nicamente el deseo de tener un cachorro. 
 						Hay casos en que la elecci&oacute;n apresurada genera en la 
 						familia conflictos, debido que &eacute;ste no cumple las 

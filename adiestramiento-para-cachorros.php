@@ -40,7 +40,7 @@
 					<h2>ADIESTRAMEINTO PARA CACHORROS</h2>
 
 					<p>
-						El adiestramiento para cachorros consiste en ense&ntildE;arles 
+						El adiestramiento para cachorros consiste en ense&ntilde;arles 
 						ejercicios de obediencia acordes a su edad, para que puedan 
 						aprenderlos y que sean de utilidad para que sus propietarios 
 						puedan resolver f&aacute;cilmente situaciones dificultosas que se 

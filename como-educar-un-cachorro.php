@@ -60,7 +60,7 @@
 						a partir del d&iacute;a mismo de su llegada. Educarlo desde el 
 						primer instante, por m&aacute;s que parezca duro y nos d&eacute; 
 						pena, es lo mejor para el cachorro. Es muy lindo llevar al 
-						cachorro a nuestra cama el primer d6iacute;a, pero despu&eacute;s 
+						cachorro a nuestra cama el primer d&iacute;a, pero despu&eacute;s 
 						ser&aacute; muy dif&iacute;cil lograr que duerma solo. 
 						Es triste sentirlo llorar, pero ser&aacute; m&aacute;s lamentable 
 						escucharlo aullar cuando sea grande y no quiera estar solo.
@@ -98,7 +98,7 @@
 						ejemplo, si le ordenamos al cachorro que no muerda las manos con 
 						una sonrisa o tono de voz suave, es casi seguro que no 
 						obedecer&aacute; la orden, debido a que para &eacute;l la 
-						sonrisa est&aacute; asociada a momentos de juego o aprobacin, y 
+						sonrisa est&aacute; asociada a momentos de juego o aprobaci&oacute;n, y 
 						el tono de voz suave lo refuerza. As&iacute;, la orden verbal 
 						pierde fuerza
 					</p>
@@ -108,7 +108,7 @@
 						las normas que desea ense&ntilde;arle al cachorro, para no 
 						confundirlo. Para eso, lo ideal es haberlo conversado antes de 
 						llevar el animal a su nuevo hogar y cumplir los roles que cada uno 
-						haya asumido; si alimentarlo, pasearlo, ba&ntildE;arlo, jugar con 
+						haya asumido; si alimentarlo, pasearlo, ba&ntilde;arlo, jugar con 
 						&eacute;l, impartirle normas de conducta, ser&aacute;n tareas 
 						repartidas o compartidas, o cada uno se ocupar&aacute; de 
 						determinado rol.

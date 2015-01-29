@@ -87,7 +87,7 @@
 						del d&iacute;a. A dormir y descansar en los lugares que le 
 						asignemos. En el caso de los machos en que su personalidad es 
 						dominante no permitirle que duerman en la cama matrimonial por 
-						que puede ser peligroso para uno de los c&oacute;nyugues. Cuando 
+						que puede ser peligroso para uno de los c&oacute;nyuge. Cuando 
 						convive con m&aacute;s de una persona, es aconsejable que todos 
 						tengan una misma idea sobre la educaci&oacute;n que van a 
 						ofrecerle y se la transmitan con claridad para no confundirlo y 
