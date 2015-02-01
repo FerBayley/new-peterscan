@@ -30,7 +30,7 @@
 					<li><a href="cachorros.php">ADQUISICION</a></li>
 					<li><span>COMO EDUCAR A UN CACHORRO SEGUN SUS CARACTERISTICAS Y NECESIDADES</span></li>
 					<li><a href="desde-el-primer-dia.php">QUE ENSE&Ntilde;ARLES DESDE EL PRIMER DIA EN NUESTRO HOGAR</a></li>
-					<li><a href="planificacion-y-desarrollo-del-adiestramiento.php">PLANIFICACION DEL ADIESTRAMEINTO</a></li>
+					<li><a href="planificacion-y-desarrollo-del-adiestramiento.php">PLANIFICACION DEL ADIESTRAMIENTO</a></li>
 					<li><a href="adiestramiento-para-cachorros.php">ADIESTRAMIENTO</a></li>
 				</ul>
 			</aside> <!-- End of aside -->

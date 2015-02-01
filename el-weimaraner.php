@@ -32,13 +32,6 @@
 			<div class="Contenido">
 				<article>
 					<h2>El Weimaraner - CARACTERISTICAS</h2>
-
-					<div class="Accesos-facebook">
-						<a href="https://www.facebook.com/media/set/?set=a.826871524038164.1073741834.193071660751490&type=3&uploaded=18" target="_blank">
-							<img src="img/ver-mas.jpg" alt="ver mas">
-						</a>
-					</div> <!-- End of Accesos-facebook -->
-
 					<p>
 						El Weimaraner es originalmente un poderoso perro de caza con un 
 						fuerte instinto de protecci&oacute;n, dotado de una r&aacute;pida 
@@ -73,12 +66,6 @@
 						Algunos puntos sobresalientes en la educaci&oacute;n del Weimaraner 
 						son los siguientes:
 					</h2>
-
-					<div class="Accesos-facebook">
-						<a href="https://www.facebook.com/media/set/?set=a.826871524038164.1073741834.193071660751490&type=3&uploaded=18" target="_blank">
-							<img src="img/ver-mas.jpg" alt="ver mas">
-						</a>
-					</div> <!-- End of Accesos-facebook -->
 					
 					<p>
 						Ense&ntilde;arle a una temprana que edad que la posici&oacute;n 
@@ -153,6 +140,12 @@
 					ofreces, lo tangible que nos sorprende y lo invisible que nos 
 					conmueve.
 				</p>
+
+				<div class="Accesos-facebook">
+					<a href="https://www.facebook.com/media/set/?set=a.826871524038164.1073741834.193071660751490&type=3&uploaded=18" target="_blank">
+						<img src="img/ver-mas.jpg" alt="ver mas">
+					</a>
+				</div> <!-- End of Accesos-facebook -->
 
 			</div> <!-- End of Contenido -->
 		</section> <!-- End of Contenedor-contenido -->
