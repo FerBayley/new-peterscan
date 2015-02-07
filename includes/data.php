@@ -18,7 +18,7 @@
 	<!-- JS -->
 	
 	<!-- FAVICON -->
-	<link rel="shortcut icon" href="favicon.png" />
+	<link rel="shortcut icon" href="favicon.ico" />
 	<!-- FAVICON -->
 
 
