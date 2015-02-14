@@ -158,7 +158,7 @@
 					nunca, desconociendo que pod&iacute;an vivir y disfrutar de esto 
 					conect&aacute;ndose con sus emociones. 
 					Esta conexi&oacute;n emocional es altamente positiva para la vida 
-					adulta ya que ayuda a la salud física previniendo enfermedades y 
+					adulta ya que ayuda a la salud f&iacute;sica previniendo enfermedades y 
 					mejorando la calidad de vida.
 				</p>
 

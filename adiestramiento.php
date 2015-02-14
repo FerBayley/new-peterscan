@@ -150,7 +150,7 @@
 						junto a &eacute;l. 
 						En esta etapa del adiestramiento, el perro ya no tiene miedo y 
 						empieza a disfrutar del agua y de nadar junto a su propietario. 
-						En este &uacute;ltima etapa del adiestramiento, el perro logra 
+						En esta &uacute;ltima etapa del adiestramiento, el perro logra 
 						zambullirse y nadar solo.
 					</p>
 					<p>
@@ -229,7 +229,7 @@
 						PLANIFICANDO LOS EJERCICIOS de ADIESTRAMIENTO en 
 						Socializaci&oacute;n y Obediencia, que permitan resolver esta 
 						conducta problem&aacute;tica. 
-						TENIENDO MUCHA PACIENCIA no es f&aacute;cil la reducac&oacute;n 
+						TENIENDO MUCHA PACIENCIA no es f&aacute;cil la reducaci&oacute;n 
 						y el adiestramiento de un perro con estas caracter&iacute;sticas, 
 						en muchos casos el resultado no alcanza la totalidad de los 
 						objetivos esperados.

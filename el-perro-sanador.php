@@ -43,7 +43,7 @@
 					
 					<p>
 						Para las personas que padecen una enfermedad, reciben tratamiento
-						m&eacute;dico o psicológico, durantes semanas, meses o a&ntilde;os, 
+						m&eacute;dico o psicol&oacute;gico, durante semanas, meses o a&ntilde;os, 
 						la compa&ntilde;&iacute;a de un perro hace toda la diferencia. 
 						Tener un perro en estas circunstancias, permite sobrellevar mejor 
 						estos momentos en los que nos sentimos vulnerables. Ellos captan 
@@ -59,6 +59,12 @@
 						apreciar los peque&ntilde;os momentos del presente.
 					</p>
 				</article>
+
+					<div class="Accesos-facebook">
+						<a href="https://www.facebook.com/193071660751490/photos/a.835053829886600.1073741838.193071660751490/835053849886598/?type=3&theater" target="_blank">
+							<img src="img/ver-mas.jpg" alt="ver mas">
+						</a>
+					</div> <!-- End of Accesos-facebook -->
 			</div> <!-- End of Contenido -->
 		</section> <!-- End of Contenedor-contenido -->
 

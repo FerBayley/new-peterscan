@@ -55,7 +55,7 @@
 						instructor canino, las personas ten&iacute;an tambi&eacute;n una 
 						relaci&oacute;n muy afectiva con sus perros, pero sin que esto 
 						alterara el lugar del perro en la familia.La relaci&oacute;n entre 
-						las personas y sus perros era clara, ellos reci&iacute;an mucho 
+						las personas y sus perros era clara, ellos recib&iacute;an mucho 
 						cari&ntilde;o y cuidados pero nadie en la familia ten&iacute;a 
 						dudas que el perro era la mascota del hogar y de acuerdo a la 
 						raza, el guardi&aacute;n de la casa.
@@ -70,7 +70,7 @@
 					</p>
 
 					<p>
-						Finalizada la d&eacute;cada del 80 y a medida que trascurría la del 
+						Finalizada la d&eacute;cada del 80 y a medida que trascurr&iacute;a la del 
 						90 era habitual escuchar en la calle llamar a los perros 
 						afectivamente con nombres de personas o dioses mitol&oacute;gicos 
 						( Jos&eacute;, Luna, Felipe, Juana, Santos, Lola, Theo, Zeus, 

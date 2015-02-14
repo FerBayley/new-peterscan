@@ -71,7 +71,7 @@
 						Hablar por tel&eacute;fono puede llegar a ser una misi&oacute;n 
 						imposible, el perro comienza a ladrar apenas escucha el sonido 
 						del tel&eacute;fono impidiendo que se pueda mantener una 
-						comunicac&iacute;n normal. Finalmente su propietario termina 
+						comunicaci&oacute;n normal. Finalmente su propietario termina 
 						hablando a los gritos en medio de los ladridos, o se escapa y 
 						se recluye en otro ambiente en el cual no llegue el perro ni 
 						sus ladridos.

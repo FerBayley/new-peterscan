@@ -34,19 +34,29 @@
 					<h2>LAS MASCOTAS SON GENERADORAS DE EMOCIONES</h2>
 
 					<p>
-						Muchas personas ya adultas al tener contacto con su perro, vuelven a 
-						sentir la magia y la alegr&iacute;a de cuando eran chicos, es como si 
-						retrocedieran en el tiempo sin saberlo, son instantes fugaces en los 
-						que se vuelven a sentir ni&ntilde;os. Cuando nos acercamos a 
-						nuestro perro y lo acariciamos, lo abrazamos, le damos un beso, 
-						jugamos a lo bruto, o nos encontramos en una mirada profunda que 
-						nos conmueve, sentimos un cari&ntilde;o enorme e inexplicable 
-						por &eacute;l. La explicaci&oacute;n a este sentimiento que a 
-						veces nos sorprende debemos buscarla en los recuerdos de nuestra 
-						infancia o juventud, es por ello que siendo personas adultas el 
-						contacto con una mascota nos hace revivir emociones quiz&aacute;s 
-						ya olvidadas. Una persona no busca una mascota por que piensa que 
-						le va provocar este sentimiento, simplemente ocurre, se vivencia y 
+						Muchas personas ya adultas al tener contacto con su perro, vuelven 
+						a sentir la magia y la alegr&iacute;a de cuando eran chicos, es como 
+						si retrocedieran en el tiempo sin saberlo, son instantes fugaces en 
+						los que se vuelven a sentir ni&ntilde;os.
+					</p>
+
+					<p>
+						Cuando nos acercamos a nuestro perro y lo acariciamos, lo 
+						abrazamos, le damos un beso, jugamos a lo bruto, o nos 
+						encontramos en una mirada profunda que nos conmueve, sentimos 
+						un cari&ntilde;o enorme e inexplicable por &eacute;l. 
+					</p>
+
+					<p>
+						La explicaci&oacute;n a este sentimiento que a veces nos sorprende 
+						debemos buscarla en los recuerdos de nuestra infancia o 
+						juventud, es por ello que siendo personas adultas el contacto 
+						con una mascota nos hace revivir emociones quiz&aacute;s ya olvidadas.
+					</p> 
+
+					<p>
+						Una persona no busca una mascota por que piensa que le va 
+						provocar este sentimiento, simplemente ocurre, se vivencia y 
 						es muy dif&iacute;cil ponerlo en palabras, se siente o no se 
 						siente, por eso es terap&eacute;utico, sanador o hace bien.
 					</p>					

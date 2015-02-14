@@ -59,7 +59,7 @@
 					<p>
 						Es aconsejable que el cachorro pase los dos primeros meses de 
 						vida con su madre y hermanos para que pueda concretar la primera 
-						parte de socializaci&oacute;n con individuosde su misma especie.
+						parte de socializaci&oacute;n con individuos de su misma especie.
 					</p>	
 
 					<p>
