@@ -236,7 +236,9 @@
 					</p>
 
 					<div class="Accesos-facebook">
-						<a href="#"><img src="img/ver-mas.jpg" alt="ver mas"></a>
+						<a href="https://www.facebook.com/pages/Peterscan-Adiestramiento-Canino-Pedro-Monges/193071660751490" target="_blank">
+							<img src="img/ver-mas.jpg" alt="ver mas">
+						</a>
 					</div> <!-- End of Accesos-facebook -->
 				</article>
 

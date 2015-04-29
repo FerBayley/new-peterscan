@@ -14,7 +14,7 @@
 			</li>
 
 			<li>
-				<a href="mailto:info@peterscan.com.ar">
+				<a href="mailto:mongesp@yahoo.com.ar">
 					<img src="img/mail.jpg" width="40" height="33" alt="Contacto">
 				</a>
 			</li>

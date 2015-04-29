@@ -1,6 +1,6 @@
 <section class="Preheader">
 	<p>Pedro Monges (54-11) 4-788-9445 / Cel: (54-11) 15-5 007-1603 / 
-		<a href="mailto:info@peterscan.com.ar">info@peterscan.com.ar</a>
+		<a href="mailto:mongesp@yahoo.com.ar">Contacto v&iacute;a email</a>
 	</p>
 </section> <!-- End of Preheader -->
 

@@ -1,6 +1,6 @@
 <footer>
 	<p>
 		&copy; Todos los derechos reservados 2015 - Peters Can - Adiestramiento Canino: 
-			<a href="mailto:info@peterscan.com.ar">info@peterscan.com.ar</a>
+			<a href="mailto:mongesp@yahoo.com.ar">Contacto v&iacute;a email</a>
 	</p>
 </footer> <!-- End of footer -->
